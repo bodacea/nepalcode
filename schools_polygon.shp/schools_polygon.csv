@@ -1,0 +1,8 @@
+"ogc id","amenity","name","latitude","longitude","OSM way id","other tags"
+1.0,"","",27.68244545,85.33332200000001,"",""
+2.0,"","",27.614677399999998,85.5272698,"",""
+3.0,"","",27.6665426,85.42781035,"",""
+4.0,"school","St. Mary's School",27.675430249999998,85.31128855,"52768161","""isced:level""=>""higher_secondary"", ""operator:type""=>""community"", ""student:count""=>""2039"", ""building_count""=>""5"", ""personnel:count""=>""80"""
+5.0,"school","The British School",27.6821059,85.3117314,"53017598",""
+6.0,"college","St. Xavier's College",27.693249549999997,85.32113905,"84035026","""isced:level""=>""college"", ""operator:type""=>""private"", ""student:count""=>""2800"", ""building_count""=>""5"", ""personnel:count""=>""200"""
+7.0,"university","TU Controller of Examinations",27.6841334,85.29527465000001,"84035028","""name:ne""=>""Pariksha niyantran karyalaya"", ""website""=>""www.tuexam.edu.np"", ""operator""=>""Tribhuwan University"""
