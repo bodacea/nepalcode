@@ -1,0 +1,823 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="npl_hltfac_DoH_WHO_wgs84" id="npl_hltfac_DoH_WHO_wgs84">
+	<SimpleField name="ID" type="int"></SimpleField>
+	<SimpleField name="HF_TYPE" type="string"></SimpleField>
+	<SimpleField name="DIST_NAME" type="string"></SimpleField>
+	<SimpleField name="VDC_NAME1" type="string"></SimpleField>
+	<SimpleField name="VDC_CODE1" type="string"></SimpleField>
+</Schema>
+<Folder><name>npl_hltfac_DoH_WHO_wgs84</name>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#npl_hltfac_DoH_WHO_wgs84">
+		<SimpleData name="ID">0</SimpleData>
+		<SimpleData name="HF_TYPE">DPHO</SimpleData>
+		<SimpleData name="DIST_NAME">Gorkha</SimpleData>
+		<SimpleData name="VDC_NAME1">PrithbinarayanN.P.</SimpleData>
+		<SimpleData name="VDC_CODE1">W-GAN-36-050</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>84.618759886611969,27.991253798357711</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#npl_hltfac_DoH_WHO_wgs84">
+		<SimpleData name="ID">0</SimpleData>
+		<SimpleData name="HF_TYPE">Hospital</SimpleData>
+		<SimpleData name="DIST_NAME">Gorkha</SimpleData>
+		<SimpleData name="VDC_NAME1">PrithbinarayanN.P.</SimpleData>
+		<SimpleData name="VDC_CODE1">W-GAN-36-050</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>84.591399151916235,28.002448203419352</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#npl_hltfac_DoH_WHO_wgs84">
+		<SimpleData name="ID">0</SimpleData>
+		<SimpleData name="HF_TYPE">Hospital</SimpleData>
+		<SimpleData name="DIST_NAME">Gorkha</SimpleData>
+		<SimpleData name="VDC_NAME1">Aanppipal</SimpleData>
+		<SimpleData name="VDC_CODE1">W-GAN-36-001</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>84.543905559339137,28.064850572112448</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#npl_hltfac_DoH_WHO_wgs84">
+		<SimpleData name="ID">0</SimpleData>
+		<SimpleData name="HF_TYPE">Primary Health Center</SimpleData>
+		<SimpleData name="DIST_NAME">Gorkha</SimpleData>
+		<SimpleData name="VDC_NAME1">Makaising</SimpleData>
+		<SimpleData name="VDC_CODE1">W-GAN-36-040</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>84.65662694460886,27.882454601795882</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#npl_hltfac_DoH_WHO_wgs84">
+		<SimpleData name="ID">0</SimpleData>
+		<SimpleData name="HF_TYPE">Primary Health Center</SimpleData>
+		<SimpleData name="DIST_NAME">Gorkha</SimpleData>
+		<SimpleData name="VDC_NAME1">Jaubari</SimpleData>
+		<SimpleData name="VDC_CODE1">W-GAN-36-031</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>84.631897655038088,28.126703065250965</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#npl_hltfac_DoH_WHO_wgs84">
+		<SimpleData name="ID">0</SimpleData>
+		<SimpleData name="HF_TYPE">Primary Health Center</SimpleData>
+		<SimpleData name="DIST_NAME">Gorkha</SimpleData>
+		<SimpleData name="VDC_NAME1">AaruChanuate</SimpleData>
+		<SimpleData name="VDC_CODE1">W-GAN-36-003</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>84.805872460257675,28.07790547671156</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#npl_hltfac_DoH_WHO_wgs84">
+		<SimpleData name="ID">0</SimpleData>
+		<SimpleData name="HF_TYPE">Health Post</SimpleData>
+		<SimpleData name="DIST_NAME">Gorkha</SimpleData>
+		<SimpleData name="VDC_NAME1">Prok</SimpleData>
+		<SimpleData name="VDC_CODE1">W-GAN-36-051</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>84.80356894217239,28.568947505282846</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#npl_hltfac_DoH_WHO_wgs84">
+		<SimpleData name="ID">0</SimpleData>
+		<SimpleData name="HF_TYPE">Health Post</SimpleData>
+		<SimpleData name="DIST_NAME">Gorkha</SimpleData>
+		<SimpleData name="VDC_NAME1">Chhaikampar</SimpleData>
+		<SimpleData name="VDC_CODE1">W-GAN-36-013</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>85.093513938125639,28.509573640385398</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#npl_hltfac_DoH_WHO_wgs84">
+		<SimpleData name="ID">0</SimpleData>
+		<SimpleData name="HF_TYPE">Health Post</SimpleData>
+		<SimpleData name="DIST_NAME">Gorkha</SimpleData>
+		<SimpleData name="VDC_NAME1">Gumda</SimpleData>
+		<SimpleData name="VDC_CODE1">W-GAN-36-028</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>84.80890159114756,28.31057443016272</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#npl_hltfac_DoH_WHO_wgs84">
+		<SimpleData name="ID">0</SimpleData>
+		<SimpleData name="HF_TYPE">Health Post</SimpleData>
+		<SimpleData name="DIST_NAME">Gorkha</SimpleData>
+		<SimpleData name="VDC_NAME1">Manbu</SimpleData>
+		<SimpleData name="VDC_CODE1">W-GAN-36-042</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>84.938207938711017,28.167841985336647</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#npl_hltfac_DoH_WHO_wgs84">
+		<SimpleData name="ID">0</SimpleData>
+		<SimpleData name="HF_TYPE">Health Post</SimpleData>
+		<SimpleData name="DIST_NAME">Gorkha</SimpleData>
+		<SimpleData name="VDC_NAME1">Hansapur</SimpleData>
+		<SimpleData name="VDC_CODE1">W-GAN-36-029</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>84.64634761104071,28.176919507420376</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#npl_hltfac_DoH_WHO_wgs84">
+		<SimpleData name="ID">0</SimpleData>
+		<SimpleData name="HF_TYPE">Health Post</SimpleData>
+		<SimpleData name="DIST_NAME">Gorkha</SimpleData>
+		<SimpleData name="VDC_NAME1">Takumajhalakuribot</SimpleData>
+		<SimpleData name="VDC_CODE1">W-GAN-36-060</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>84.684835877890919,28.105208138156748</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#npl_hltfac_DoH_WHO_wgs84">
+		<SimpleData name="ID">0</SimpleData>
+		<SimpleData name="HF_TYPE">Health Post</SimpleData>
+		<SimpleData name="DIST_NAME">Gorkha</SimpleData>
+		<SimpleData name="VDC_NAME1">Masel</SimpleData>
+		<SimpleData name="VDC_CODE1">W-GAN-36-043</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>84.67436912772024,28.049893350360133</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#npl_hltfac_DoH_WHO_wgs84">
+		<SimpleData name="ID">0</SimpleData>
+		<SimpleData name="HF_TYPE">Health Post</SimpleData>
+		<SimpleData name="DIST_NAME">Gorkha</SimpleData>
+		<SimpleData name="VDC_NAME1">Bunkot</SimpleData>
+		<SimpleData name="VDC_CODE1">W-GAN-36-012</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>84.67394632890327,27.979240575399533</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#npl_hltfac_DoH_WHO_wgs84">
+		<SimpleData name="ID">0</SimpleData>
+		<SimpleData name="HF_TYPE">Health Post</SimpleData>
+		<SimpleData name="DIST_NAME">Gorkha</SimpleData>
+		<SimpleData name="VDC_NAME1">Palumtar</SimpleData>
+		<SimpleData name="VDC_CODE1">W-GAN-36-047</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>84.49937009054976,28.058877346235008</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#npl_hltfac_DoH_WHO_wgs84">
+		<SimpleData name="ID">0</SimpleData>
+		<SimpleData name="HF_TYPE">Health Post</SimpleData>
+		<SimpleData name="DIST_NAME">Gorkha</SimpleData>
+		<SimpleData name="VDC_NAME1">Dhuwakot</SimpleData>
+		<SimpleData name="VDC_CODE1">W-GAN-36-020</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>84.512682542437531,27.971840107741286</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#npl_hltfac_DoH_WHO_wgs84">
+		<SimpleData name="ID">0</SimpleData>
+		<SimpleData name="HF_TYPE">Sub Health Post</SimpleData>
+		<SimpleData name="DIST_NAME">Gorkha</SimpleData>
+		<SimpleData name="VDC_NAME1">Samagaun</SimpleData>
+		<SimpleData name="VDC_CODE1">W-GAN-36-052</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>84.568154750952061,28.706205974022673</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#npl_hltfac_DoH_WHO_wgs84">
+		<SimpleData name="ID">0</SimpleData>
+		<SimpleData name="HF_TYPE">Sub Health Post</SimpleData>
+		<SimpleData name="DIST_NAME">Gorkha</SimpleData>
+		<SimpleData name="VDC_NAME1">Lho</SimpleData>
+		<SimpleData name="VDC_CODE1">W-GAN-36-039</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>84.725045254602648,28.59005204940317</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#npl_hltfac_DoH_WHO_wgs84">
+		<SimpleData name="ID">0</SimpleData>
+		<SimpleData name="HF_TYPE">Sub Health Post</SimpleData>
+		<SimpleData name="DIST_NAME">Gorkha</SimpleData>
+		<SimpleData name="VDC_NAME1">Bihi</SimpleData>
+		<SimpleData name="VDC_CODE1">W-GAN-36-010</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>84.914888925913843,28.565534996004288</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#npl_hltfac_DoH_WHO_wgs84">
+		<SimpleData name="ID">0</SimpleData>
+		<SimpleData name="HF_TYPE">Sub Health Post</SimpleData>
+		<SimpleData name="DIST_NAME">Gorkha</SimpleData>
+		<SimpleData name="VDC_NAME1">Chumchet</SimpleData>
+		<SimpleData name="VDC_CODE1">W-GAN-36-015</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>85.012484248353019,28.56527669734875</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#npl_hltfac_DoH_WHO_wgs84">
+		<SimpleData name="ID">0</SimpleData>
+		<SimpleData name="HF_TYPE">Sub Health Post</SimpleData>
+		<SimpleData name="DIST_NAME">Gorkha</SimpleData>
+		<SimpleData name="VDC_NAME1">Sirdibas</SimpleData>
+		<SimpleData name="VDC_CODE1">W-GAN-36-056</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>84.780874811676782,28.441073909084302</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#npl_hltfac_DoH_WHO_wgs84">
+		<SimpleData name="ID">0</SimpleData>
+		<SimpleData name="HF_TYPE">Sub Health Post</SimpleData>
+		<SimpleData name="DIST_NAME">Gorkha</SimpleData>
+		<SimpleData name="VDC_NAME1">Kerauja</SimpleData>
+		<SimpleData name="VDC_CODE1">W-GAN-36-034</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>85.044107178038431,28.438220272746051</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#npl_hltfac_DoH_WHO_wgs84">
+		<SimpleData name="ID">0</SimpleData>
+		<SimpleData name="HF_TYPE">Sub Health Post</SimpleData>
+		<SimpleData name="DIST_NAME">Gorkha</SimpleData>
+		<SimpleData name="VDC_NAME1">Uhya</SimpleData>
+		<SimpleData name="VDC_CODE1">W-GAN-36-066</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>84.857078237843098,28.335463195969837</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#npl_hltfac_DoH_WHO_wgs84">
+		<SimpleData name="ID">0</SimpleData>
+		<SimpleData name="HF_TYPE">Sub Health Post</SimpleData>
+		<SimpleData name="DIST_NAME">Gorkha</SimpleData>
+		<SimpleData name="VDC_NAME1">Kashigaun</SimpleData>
+		<SimpleData name="VDC_CODE1">W-GAN-36-032</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>84.95102720954965,28.209391351468408</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#npl_hltfac_DoH_WHO_wgs84">
+		<SimpleData name="ID">0</SimpleData>
+		<SimpleData name="HF_TYPE">Sub Health Post</SimpleData>
+		<SimpleData name="DIST_NAME">Gorkha</SimpleData>
+		<SimpleData name="VDC_NAME1">Lapu</SimpleData>
+		<SimpleData name="VDC_CODE1">W-GAN-36-038</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>84.861984814461792,28.187350671786881</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#npl_hltfac_DoH_WHO_wgs84">
+		<SimpleData name="ID">0</SimpleData>
+		<SimpleData name="HF_TYPE">Sub Health Post</SimpleData>
+		<SimpleData name="DIST_NAME">Gorkha</SimpleData>
+		<SimpleData name="VDC_NAME1">Warpak</SimpleData>
+		<SimpleData name="VDC_CODE1">W-GAN-36-067</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>84.743380890479003,28.278491635946402</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#npl_hltfac_DoH_WHO_wgs84">
+		<SimpleData name="ID">0</SimpleData>
+		<SimpleData name="HF_TYPE">Sub Health Post</SimpleData>
+		<SimpleData name="DIST_NAME">Gorkha</SimpleData>
+		<SimpleData name="VDC_NAME1">Ghyachok</SimpleData>
+		<SimpleData name="VDC_CODE1">W-GAN-36-026</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>84.707472457791411,28.319246103485877</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#npl_hltfac_DoH_WHO_wgs84">
+		<SimpleData name="ID">0</SimpleData>
+		<SimpleData name="HF_TYPE">Sub Health Post</SimpleData>
+		<SimpleData name="DIST_NAME">Gorkha</SimpleData>
+		<SimpleData name="VDC_NAME1">Kharibot</SimpleData>
+		<SimpleData name="VDC_CODE1">W-GAN-36-035</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>84.669446320844926,28.27724972639756</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#npl_hltfac_DoH_WHO_wgs84">
+		<SimpleData name="ID">0</SimpleData>
+		<SimpleData name="HF_TYPE">Sub Health Post</SimpleData>
+		<SimpleData name="DIST_NAME">Gorkha</SimpleData>
+		<SimpleData name="VDC_NAME1">Simjung</SimpleData>
+		<SimpleData name="VDC_CODE1">W-GAN-36-055</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>84.681446835183934,28.17234952786794</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#npl_hltfac_DoH_WHO_wgs84">
+		<SimpleData name="ID">0</SimpleData>
+		<SimpleData name="HF_TYPE">Sub Health Post</SimpleData>
+		<SimpleData name="DIST_NAME">Gorkha</SimpleData>
+		<SimpleData name="VDC_NAME1">Muchhok</SimpleData>
+		<SimpleData name="VDC_CODE1">W-GAN-36-044</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>84.656779531839263,28.144361111715916</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#npl_hltfac_DoH_WHO_wgs84">
+		<SimpleData name="ID">0</SimpleData>
+		<SimpleData name="HF_TYPE">Sub Health Post</SimpleData>
+		<SimpleData name="DIST_NAME">Gorkha</SimpleData>
+		<SimpleData name="VDC_NAME1">Saurpani</SimpleData>
+		<SimpleData name="VDC_CODE1">W-GAN-36-053</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>84.720613649208872,28.159222870873769</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#npl_hltfac_DoH_WHO_wgs84">
+		<SimpleData name="ID">0</SimpleData>
+		<SimpleData name="HF_TYPE">Sub Health Post</SimpleData>
+		<SimpleData name="DIST_NAME">Gorkha</SimpleData>
+		<SimpleData name="VDC_NAME1">Swara</SimpleData>
+		<SimpleData name="VDC_CODE1">W-GAN-36-057</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>84.758115308882935,28.132272570489782</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#npl_hltfac_DoH_WHO_wgs84">
+		<SimpleData name="ID">0</SimpleData>
+		<SimpleData name="HF_TYPE">Sub Health Post</SimpleData>
+		<SimpleData name="DIST_NAME">Gorkha</SimpleData>
+		<SimpleData name="VDC_NAME1">Thumi</SimpleData>
+		<SimpleData name="VDC_CODE1">W-GAN-36-065</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>84.843475837214257,28.140535349648292</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#npl_hltfac_DoH_WHO_wgs84">
+		<SimpleData name="ID">0</SimpleData>
+		<SimpleData name="HF_TYPE">Sub Health Post</SimpleData>
+		<SimpleData name="DIST_NAME">Gorkha</SimpleData>
+		<SimpleData name="VDC_NAME1">AaruArbang</SimpleData>
+		<SimpleData name="VDC_CODE1">W-GAN-36-002</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>84.784048857510044,28.099955273406032</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#npl_hltfac_DoH_WHO_wgs84">
+		<SimpleData name="ID">0</SimpleData>
+		<SimpleData name="HF_TYPE">Sub Health Post</SimpleData>
+		<SimpleData name="DIST_NAME">Gorkha</SimpleData>
+		<SimpleData name="VDC_NAME1">Aarupokhari</SimpleData>
+		<SimpleData name="VDC_CODE1">W-GAN-36-004</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>84.790793500694974,28.055262772454245</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#npl_hltfac_DoH_WHO_wgs84">
+		<SimpleData name="ID">0</SimpleData>
+		<SimpleData name="HF_TYPE">Sub Health Post</SimpleData>
+		<SimpleData name="DIST_NAME">Gorkha</SimpleData>
+		<SimpleData name="VDC_NAME1">Panchkhuwadeurali</SimpleData>
+		<SimpleData name="VDC_CODE1">W-GAN-36-048</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>84.74178274854232,28.076865445786112</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#npl_hltfac_DoH_WHO_wgs84">
+		<SimpleData name="ID">0</SimpleData>
+		<SimpleData name="HF_TYPE">Sub Health Post</SimpleData>
+		<SimpleData name="DIST_NAME">Gorkha</SimpleData>
+		<SimpleData name="VDC_NAME1">Pandrung</SimpleData>
+		<SimpleData name="VDC_CODE1">W-GAN-36-049</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>84.718908264081392,28.068750016948066</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#npl_hltfac_DoH_WHO_wgs84">
+		<SimpleData name="ID">0</SimpleData>
+		<SimpleData name="HF_TYPE">Sub Health Post</SimpleData>
+		<SimpleData name="DIST_NAME">Gorkha</SimpleData>
+		<SimpleData name="VDC_NAME1">Tandrang</SimpleData>
+		<SimpleData name="VDC_CODE1">W-GAN-36-061</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>84.779603270107671,28.03268153372149</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#npl_hltfac_DoH_WHO_wgs84">
+		<SimpleData name="ID">0</SimpleData>
+		<SimpleData name="HF_TYPE">Sub Health Post</SimpleData>
+		<SimpleData name="DIST_NAME">Gorkha</SimpleData>
+		<SimpleData name="VDC_NAME1">Dhawa</SimpleData>
+		<SimpleData name="VDC_CODE1">W-GAN-36-019</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>84.757547743191409,28.020244436607467</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#npl_hltfac_DoH_WHO_wgs84">
+		<SimpleData name="ID">0</SimpleData>
+		<SimpleData name="HF_TYPE">Sub Health Post</SimpleData>
+		<SimpleData name="DIST_NAME">Gorkha</SimpleData>
+		<SimpleData name="VDC_NAME1">Baguwa</SimpleData>
+		<SimpleData name="VDC_CODE1">W-GAN-36-006</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>84.717555459642867,28.028218101093259</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#npl_hltfac_DoH_WHO_wgs84">
+		<SimpleData name="ID">0</SimpleData>
+		<SimpleData name="HF_TYPE">Sub Health Post</SimpleData>
+		<SimpleData name="DIST_NAME">Gorkha</SimpleData>
+		<SimpleData name="VDC_NAME1">Takukot</SimpleData>
+		<SimpleData name="VDC_CODE1">W-GAN-36-059</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>84.671318054324431,28.067764748745315</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#npl_hltfac_DoH_WHO_wgs84">
+		<SimpleData name="ID">0</SimpleData>
+		<SimpleData name="HF_TYPE">Sub Health Post</SimpleData>
+		<SimpleData name="DIST_NAME">Gorkha</SimpleData>
+		<SimpleData name="VDC_NAME1">Shreenathkot</SimpleData>
+		<SimpleData name="VDC_CODE1">W-GAN-36-054</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>84.638443364893064,28.094078677449787</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#npl_hltfac_DoH_WHO_wgs84">
+		<SimpleData name="ID">0</SimpleData>
+		<SimpleData name="HF_TYPE">Sub Health Post</SimpleData>
+		<SimpleData name="DIST_NAME">Gorkha</SimpleData>
+		<SimpleData name="VDC_NAME1">Kerabari</SimpleData>
+		<SimpleData name="VDC_CODE1">W-GAN-36-033</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>84.610221138533348,28.140110665492021</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#npl_hltfac_DoH_WHO_wgs84">
+		<SimpleData name="ID">0</SimpleData>
+		<SimpleData name="HF_TYPE">Sub Health Post</SimpleData>
+		<SimpleData name="DIST_NAME">Gorkha</SimpleData>
+		<SimpleData name="VDC_NAME1">Thalajung</SimpleData>
+		<SimpleData name="VDC_CODE1">W-GAN-36-064</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>84.572060458313871,28.108426101056867</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#npl_hltfac_DoH_WHO_wgs84">
+		<SimpleData name="ID">0</SimpleData>
+		<SimpleData name="HF_TYPE">Sub Health Post</SimpleData>
+		<SimpleData name="DIST_NAME">Gorkha</SimpleData>
+		<SimpleData name="VDC_NAME1">Harmhi</SimpleData>
+		<SimpleData name="VDC_CODE1">W-GAN-36-030</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>84.533764870061745,28.083621149069614</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#npl_hltfac_DoH_WHO_wgs84">
+		<SimpleData name="ID">0</SimpleData>
+		<SimpleData name="HF_TYPE">Sub Health Post</SimpleData>
+		<SimpleData name="DIST_NAME">Gorkha</SimpleData>
+		<SimpleData name="VDC_NAME1">Chhoprak</SimpleData>
+		<SimpleData name="VDC_CODE1">W-GAN-36-014</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>84.584602159732952,28.069019005596044</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#npl_hltfac_DoH_WHO_wgs84">
+		<SimpleData name="ID">0</SimpleData>
+		<SimpleData name="HF_TYPE">Sub Health Post</SimpleData>
+		<SimpleData name="DIST_NAME">Gorkha</SimpleData>
+		<SimpleData name="VDC_NAME1">Gakhu</SimpleData>
+		<SimpleData name="VDC_CODE1">W-GAN-36-024</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>84.61970522965963,28.062740451366661</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#npl_hltfac_DoH_WHO_wgs84">
+		<SimpleData name="ID">0</SimpleData>
+		<SimpleData name="HF_TYPE">Sub Health Post</SimpleData>
+		<SimpleData name="DIST_NAME">Gorkha</SimpleData>
+		<SimpleData name="VDC_NAME1">Nareshwor</SimpleData>
+		<SimpleData name="VDC_CODE1">W-GAN-36-046</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>84.635047808586506,28.036923799665718</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#npl_hltfac_DoH_WHO_wgs84">
+		<SimpleData name="ID">0</SimpleData>
+		<SimpleData name="HF_TYPE">Sub Health Post</SimpleData>
+		<SimpleData name="DIST_NAME">Gorkha</SimpleData>
+		<SimpleData name="VDC_NAME1">Taple</SimpleData>
+		<SimpleData name="VDC_CODE1">W-GAN-36-063</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>84.670931599070968,28.029158389833942</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#npl_hltfac_DoH_WHO_wgs84">
+		<SimpleData name="ID">0</SimpleData>
+		<SimpleData name="HF_TYPE">Sub Health Post</SimpleData>
+		<SimpleData name="DIST_NAME">Gorkha</SimpleData>
+		<SimpleData name="VDC_NAME1">Asrang</SimpleData>
+		<SimpleData name="VDC_CODE1">W-GAN-36-005</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>84.717991500495742,28.007548231645533</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#npl_hltfac_DoH_WHO_wgs84">
+		<SimpleData name="ID">0</SimpleData>
+		<SimpleData name="HF_TYPE">Sub Health Post</SimpleData>
+		<SimpleData name="DIST_NAME">Gorkha</SimpleData>
+		<SimpleData name="VDC_NAME1">Borlang</SimpleData>
+		<SimpleData name="VDC_CODE1">W-GAN-36-011</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>84.757164667756101,27.990962006314483</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#npl_hltfac_DoH_WHO_wgs84">
+		<SimpleData name="ID">0</SimpleData>
+		<SimpleData name="HF_TYPE">Sub Health Post</SimpleData>
+		<SimpleData name="DIST_NAME">Gorkha</SimpleData>
+		<SimpleData name="VDC_NAME1">Namjung</SimpleData>
+		<SimpleData name="VDC_CODE1">W-GAN-36-045</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>84.717502083907846,27.938616019257925</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#npl_hltfac_DoH_WHO_wgs84">
+		<SimpleData name="ID">0</SimpleData>
+		<SimpleData name="HF_TYPE">Sub Health Post</SimpleData>
+		<SimpleData name="DIST_NAME">Gorkha</SimpleData>
+		<SimpleData name="VDC_NAME1">Fujel</SimpleData>
+		<SimpleData name="VDC_CODE1">W-GAN-36-022</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>84.722031527498586,27.907674982266919</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#npl_hltfac_DoH_WHO_wgs84">
+		<SimpleData name="ID">0</SimpleData>
+		<SimpleData name="HF_TYPE">Sub Health Post</SimpleData>
+		<SimpleData name="DIST_NAME">Gorkha</SimpleData>
+		<SimpleData name="VDC_NAME1">Darbhung</SimpleData>
+		<SimpleData name="VDC_CODE1">W-GAN-36-017</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>84.744467921790587,27.854626917781985</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#npl_hltfac_DoH_WHO_wgs84">
+		<SimpleData name="ID">0</SimpleData>
+		<SimpleData name="HF_TYPE">Sub Health Post</SimpleData>
+		<SimpleData name="DIST_NAME">Gorkha</SimpleData>
+		<SimpleData name="VDC_NAME1">Ghyalchok</SimpleData>
+		<SimpleData name="VDC_CODE1">W-GAN-36-027</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>84.750957543900725,27.821993001847019</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#npl_hltfac_DoH_WHO_wgs84">
+		<SimpleData name="ID">0</SimpleData>
+		<SimpleData name="HF_TYPE">Sub Health Post</SimpleData>
+		<SimpleData name="DIST_NAME">Gorkha</SimpleData>
+		<SimpleData name="VDC_NAME1">Bhumlichok</SimpleData>
+		<SimpleData name="VDC_CODE1">W-GAN-36-009</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>84.70570676593141,27.853987488553148</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#npl_hltfac_DoH_WHO_wgs84">
+		<SimpleData name="ID">0</SimpleData>
+		<SimpleData name="HF_TYPE">Sub Health Post</SimpleData>
+		<SimpleData name="DIST_NAME">Gorkha</SimpleData>
+		<SimpleData name="VDC_NAME1">Tanglichok</SimpleData>
+		<SimpleData name="VDC_CODE1">W-GAN-36-062</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>84.686184501963552,27.907736247365452</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#npl_hltfac_DoH_WHO_wgs84">
+		<SimpleData name="ID">0</SimpleData>
+		<SimpleData name="HF_TYPE">Sub Health Post</SimpleData>
+		<SimpleData name="DIST_NAME">Gorkha</SimpleData>
+		<SimpleData name="VDC_NAME1">Ghairung</SimpleData>
+		<SimpleData name="VDC_CODE1">W-GAN-36-025</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>84.665209503304752,27.934292676440474</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#npl_hltfac_DoH_WHO_wgs84">
+		<SimpleData name="ID">0</SimpleData>
+		<SimpleData name="HF_TYPE">Sub Health Post</SimpleData>
+		<SimpleData name="DIST_NAME">Gorkha</SimpleData>
+		<SimpleData name="VDC_NAME1">Taklung</SimpleData>
+		<SimpleData name="VDC_CODE1">W-GAN-36-058</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>84.625010103006986,27.909482200647584</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#npl_hltfac_DoH_WHO_wgs84">
+		<SimpleData name="ID">0</SimpleData>
+		<SimpleData name="HF_TYPE">Sub Health Post</SimpleData>
+		<SimpleData name="DIST_NAME">Gorkha</SimpleData>
+		<SimpleData name="VDC_NAME1">Bakrang</SimpleData>
+		<SimpleData name="VDC_CODE1">W-GAN-36-007</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>84.616649879712696,27.936906453833384</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#npl_hltfac_DoH_WHO_wgs84">
+		<SimpleData name="ID">0</SimpleData>
+		<SimpleData name="HF_TYPE">Sub Health Post</SimpleData>
+		<SimpleData name="DIST_NAME">Gorkha</SimpleData>
+		<SimpleData name="VDC_NAME1">Manakamana</SimpleData>
+		<SimpleData name="VDC_CODE1">W-GAN-36-041</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>84.588400842961619,27.898507821511618</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#npl_hltfac_DoH_WHO_wgs84">
+		<SimpleData name="ID">0</SimpleData>
+		<SimpleData name="HF_TYPE">Sub Health Post</SimpleData>
+		<SimpleData name="DIST_NAME">Gorkha</SimpleData>
+		<SimpleData name="VDC_NAME1">Deurali</SimpleData>
+		<SimpleData name="VDC_CODE1">W-GAN-36-018</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>84.516635555263591,27.947942099354808</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#npl_hltfac_DoH_WHO_wgs84">
+		<SimpleData name="ID">0</SimpleData>
+		<SimpleData name="HF_TYPE">Sub Health Post</SimpleData>
+		<SimpleData name="DIST_NAME">Gorkha</SimpleData>
+		<SimpleData name="VDC_NAME1">Bhirkot</SimpleData>
+		<SimpleData name="VDC_CODE1">W-GAN-36-008</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>84.523969007925757,28.002465923929893</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#npl_hltfac_DoH_WHO_wgs84">
+		<SimpleData name="ID">0</SimpleData>
+		<SimpleData name="HF_TYPE">Sub Health Post</SimpleData>
+		<SimpleData name="DIST_NAME">Gorkha</SimpleData>
+		<SimpleData name="VDC_NAME1">Chyngli</SimpleData>
+		<SimpleData name="VDC_CODE1">W-GAN-36-016</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>84.484716965802221,27.991398523445866</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#npl_hltfac_DoH_WHO_wgs84">
+		<SimpleData name="ID">0</SimpleData>
+		<SimpleData name="HF_TYPE">Sub Health Post</SimpleData>
+		<SimpleData name="DIST_NAME">Gorkha</SimpleData>
+		<SimpleData name="VDC_NAME1">Gaikhur</SimpleData>
+		<SimpleData name="VDC_CODE1">W-GAN-36-023</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>84.47962647021987,28.026135395871318</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#npl_hltfac_DoH_WHO_wgs84">
+		<SimpleData name="ID">0</SimpleData>
+		<SimpleData name="HF_TYPE">Sub Health Post</SimpleData>
+		<SimpleData name="DIST_NAME">Gorkha</SimpleData>
+		<SimpleData name="VDC_NAME1">Khoplang</SimpleData>
+		<SimpleData name="VDC_CODE1">W-GAN-36-036</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>84.530983918430167,28.035328420902651</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#npl_hltfac_DoH_WHO_wgs84">
+		<SimpleData name="ID">0</SimpleData>
+		<SimpleData name="HF_TYPE">Sub Health Post</SimpleData>
+		<SimpleData name="DIST_NAME">Gorkha</SimpleData>
+		<SimpleData name="VDC_NAME1">Finam</SimpleData>
+		<SimpleData name="VDC_CODE1">W-GAN-36-021</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>84.653872721409797,28.009914482990737</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#npl_hltfac_DoH_WHO_wgs84">
+		<SimpleData name="ID">0</SimpleData>
+		<SimpleData name="HF_TYPE">Sub Health Post</SimpleData>
+		<SimpleData name="DIST_NAME">Gorkha</SimpleData>
+		<SimpleData name="VDC_NAME1">Laprak</SimpleData>
+		<SimpleData name="VDC_CODE1">W-GAN-36-037</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>84.763594803743771,28.335685239664777</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#npl_hltfac_DoH_WHO_wgs84">
+		<SimpleData name="ID">0</SimpleData>
+		<SimpleData name="HF_TYPE">Sub Center</SimpleData>
+		<SimpleData name="DIST_NAME">Gorkha</SimpleData>
+		<SimpleData name="VDC_NAME1">Sirdibas</SimpleData>
+		<SimpleData name="VDC_CODE1">W-GAN-36-056</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>84.887102817804617,28.392794884309865</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#npl_hltfac_DoH_WHO_wgs84">
+		<SimpleData name="ID">0</SimpleData>
+		<SimpleData name="HF_TYPE">Sub Center</SimpleData>
+		<SimpleData name="DIST_NAME">Gorkha</SimpleData>
+		<SimpleData name="VDC_NAME1">Manbu</SimpleData>
+		<SimpleData name="VDC_CODE1">W-GAN-36-042</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>84.896351036320738,28.120679332579275</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#npl_hltfac_DoH_WHO_wgs84">
+		<SimpleData name="ID">0</SimpleData>
+		<SimpleData name="HF_TYPE">Sub Center</SimpleData>
+		<SimpleData name="DIST_NAME">Gorkha</SimpleData>
+		<SimpleData name="VDC_NAME1">Palumtar</SimpleData>
+		<SimpleData name="VDC_CODE1">W-GAN-36-047</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>84.503331863120877,28.032322805472624</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#npl_hltfac_DoH_WHO_wgs84">
+		<SimpleData name="ID">0</SimpleData>
+		<SimpleData name="HF_TYPE">Sub Center</SimpleData>
+		<SimpleData name="DIST_NAME">Gorkha</SimpleData>
+		<SimpleData name="VDC_NAME1">Jaubari</SimpleData>
+		<SimpleData name="VDC_CODE1">W-GAN-36-031</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>84.609707946681141,28.108716153641964</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#npl_hltfac_DoH_WHO_wgs84">
+		<SimpleData name="ID">0</SimpleData>
+		<SimpleData name="HF_TYPE">Sub Center</SimpleData>
+		<SimpleData name="DIST_NAME">Gorkha</SimpleData>
+		<SimpleData name="VDC_NAME1">Makaising</SimpleData>
+		<SimpleData name="VDC_CODE1">W-GAN-36-040</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>84.644925390354175,27.86664047676868</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#npl_hltfac_DoH_WHO_wgs84">
+		<SimpleData name="ID">0</SimpleData>
+		<SimpleData name="HF_TYPE">Sub Center</SimpleData>
+		<SimpleData name="DIST_NAME">Gorkha</SimpleData>
+		<SimpleData name="VDC_NAME1">Aarupokhari</SimpleData>
+		<SimpleData name="VDC_CODE1">W-GAN-36-004</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>84.769647210055453,28.058299445365616</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#npl_hltfac_DoH_WHO_wgs84">
+		<SimpleData name="ID">0</SimpleData>
+		<SimpleData name="HF_TYPE">Supply Center</SimpleData>
+		<SimpleData name="DIST_NAME">Gorkha</SimpleData>
+		<SimpleData name="VDC_NAME1">Gumda</SimpleData>
+		<SimpleData name="VDC_CODE1">W-GAN-36-028</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>84.815838536745943,28.199939460654161</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#npl_hltfac_DoH_WHO_wgs84">
+		<SimpleData name="ID">0</SimpleData>
+		<SimpleData name="HF_TYPE">Supply Center</SimpleData>
+		<SimpleData name="DIST_NAME">Gorkha</SimpleData>
+		<SimpleData name="VDC_NAME1">Hansapur</SimpleData>
+		<SimpleData name="VDC_CODE1">W-GAN-36-029</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>84.626506977479536,28.176869651679478</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#npl_hltfac_DoH_WHO_wgs84">
+		<SimpleData name="ID">0</SimpleData>
+		<SimpleData name="HF_TYPE">Supply Center</SimpleData>
+		<SimpleData name="DIST_NAME">Gorkha</SimpleData>
+		<SimpleData name="VDC_NAME1">Takumajhalakuribot</SimpleData>
+		<SimpleData name="VDC_CODE1">W-GAN-36-060</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>84.676987830301414,28.113561094375797</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#npl_hltfac_DoH_WHO_wgs84">
+		<SimpleData name="ID">0</SimpleData>
+		<SimpleData name="HF_TYPE">Supply Center</SimpleData>
+		<SimpleData name="DIST_NAME">Gorkha</SimpleData>
+		<SimpleData name="VDC_NAME1">Masel</SimpleData>
+		<SimpleData name="VDC_CODE1">W-GAN-36-043</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>84.722576212723183,28.042773173521301</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#npl_hltfac_DoH_WHO_wgs84">
+		<SimpleData name="ID">0</SimpleData>
+		<SimpleData name="HF_TYPE">Supply Center</SimpleData>
+		<SimpleData name="DIST_NAME">Gorkha</SimpleData>
+		<SimpleData name="VDC_NAME1">Bunkot</SimpleData>
+		<SimpleData name="VDC_CODE1">W-GAN-36-012</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>84.657524426681476,27.975290416446423</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#npl_hltfac_DoH_WHO_wgs84">
+		<SimpleData name="ID">0</SimpleData>
+		<SimpleData name="HF_TYPE">Supply Center</SimpleData>
+		<SimpleData name="DIST_NAME">Gorkha</SimpleData>
+		<SimpleData name="VDC_NAME1">Dhuwakot</SimpleData>
+		<SimpleData name="VDC_CODE1">W-GAN-36-020</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>84.472837001846088,27.949892247428284</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#npl_hltfac_DoH_WHO_wgs84">
+		<SimpleData name="ID">0</SimpleData>
+		<SimpleData name="HF_TYPE">District Cold Room</SimpleData>
+		<SimpleData name="DIST_NAME">Gorkha</SimpleData>
+		<SimpleData name="VDC_NAME1">PrithbinarayanN.P.</SimpleData>
+		<SimpleData name="VDC_CODE1">W-GAN-36-050</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>84.623755303243172,28.008519603504709</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

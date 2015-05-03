@@ -1,0 +1,8 @@
+<OGRVRTDataSource>
+    <OGRVRTLayer name="npl_hltfac_DoH_WHO_wgs84_3districts">
+        <SrcDataSource>npl_hltfac_DoH_WHO_wgs84_3districts.csv</SrcDataSource>
+        <GeometryType>wkbPoint</GeometryType>
+        <LayerSRS>WGS84</LayerSRS>
+        <GeometryField encoding="PointFromColumns" x="longitude" y="latitude"/>
+    </OGRVRTLayer>
+</OGRVRTDataSource> 

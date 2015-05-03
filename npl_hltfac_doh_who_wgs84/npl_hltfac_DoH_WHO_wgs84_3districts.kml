@@ -1,0 +1,2434 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="npl_hltfac_DoH_WHO_wgs84_3districts" id="npl_hltfac_DoH_WHO_wgs84_3districts">
+	<SimpleField name="hf_type" type="string"></SimpleField>
+	<SimpleField name="dist_name" type="string"></SimpleField>
+	<SimpleField name="vdc_name1" type="string"></SimpleField>
+	<SimpleField name="vdc_code1" type="string"></SimpleField>
+	<SimpleField name="latitude" type="string"></SimpleField>
+	<SimpleField name="longitude" type="string"></SimpleField>
+</Schema>
+<Folder><name>npl_hltfac_DoH_WHO_wgs84_3districts</name>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#npl_hltfac_DoH_WHO_wgs84_3districts">
+		<SimpleData name="hf_type">DPHO</SimpleData>
+		<SimpleData name="dist_name">Dhading</SimpleData>
+		<SimpleData name="vdc_name1">Nilkantha</SimpleData>
+		<SimpleData name="vdc_code1">C-BAG-30-035</SimpleData>
+		<SimpleData name="latitude">27.902156058984332</SimpleData>
+		<SimpleData name="longitude">84.8974018289772</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>84.897401828977195,27.902156058984332</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#npl_hltfac_DoH_WHO_wgs84_3districts">
+		<SimpleData name="hf_type">Hospital</SimpleData>
+		<SimpleData name="dist_name">Dhading</SimpleData>
+		<SimpleData name="vdc_name1">Nilkantha</SimpleData>
+		<SimpleData name="vdc_code1">C-BAG-30-035</SimpleData>
+		<SimpleData name="latitude">27.90834566002726</SimpleData>
+		<SimpleData name="longitude">84.91558724198819</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>84.915587241988192,27.908345660027258</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#npl_hltfac_DoH_WHO_wgs84_3districts">
+		<SimpleData name="hf_type">Primary Health Center</SimpleData>
+		<SimpleData name="dist_name">Dhading</SimpleData>
+		<SimpleData name="vdc_name1">Gajuri</SimpleData>
+		<SimpleData name="vdc_code1">C-BAG-30-013</SimpleData>
+		<SimpleData name="latitude">27.793529743076302</SimpleData>
+		<SimpleData name="longitude">84.85128913359678</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>84.851289133596779,27.793529743076302</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#npl_hltfac_DoH_WHO_wgs84_3districts">
+		<SimpleData name="hf_type">Primary Health Center</SimpleData>
+		<SimpleData name="dist_name">Dhading</SimpleData>
+		<SimpleData name="vdc_name1">Salyantar</SimpleData>
+		<SimpleData name="vdc_code1">C-BAG-30-041</SimpleData>
+		<SimpleData name="latitude">27.99079297949188</SimpleData>
+		<SimpleData name="longitude">84.7990944159826</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>84.799094415982594,27.990792979491879</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#npl_hltfac_DoH_WHO_wgs84_3districts">
+		<SimpleData name="hf_type">Health Post</SimpleData>
+		<SimpleData name="dist_name">Dhading</SimpleData>
+		<SimpleData name="vdc_name1">Naubise</SimpleData>
+		<SimpleData name="vdc_code1">C-BAG-30-034</SimpleData>
+		<SimpleData name="latitude">27.721024450491733</SimpleData>
+		<SimpleData name="longitude">85.14269804033582</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>85.142698040335816,27.721024450491733</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#npl_hltfac_DoH_WHO_wgs84_3districts">
+		<SimpleData name="hf_type">Health Post</SimpleData>
+		<SimpleData name="dist_name">Dhading</SimpleData>
+		<SimpleData name="vdc_name1">Thakre</SimpleData>
+		<SimpleData name="vdc_code1">C-BAG-30-048</SimpleData>
+		<SimpleData name="latitude">27.73957863167141</SimpleData>
+		<SimpleData name="longitude">85.08729403826963</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>85.087294038269633,27.73957863167141</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#npl_hltfac_DoH_WHO_wgs84_3districts">
+		<SimpleData name="hf_type">Health Post</SimpleData>
+		<SimpleData name="dist_name">Dhading</SimpleData>
+		<SimpleData name="vdc_name1">Baireni</SimpleData>
+		<SimpleData name="vdc_code1">C-BAG-30-002</SimpleData>
+		<SimpleData name="latitude">27.789809128001384</SimpleData>
+		<SimpleData name="longitude">84.96449864485723</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>84.96449864485723,27.789809128001384</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#npl_hltfac_DoH_WHO_wgs84_3districts">
+		<SimpleData name="hf_type">Health Post</SimpleData>
+		<SimpleData name="dist_name">Dhading</SimpleData>
+		<SimpleData name="vdc_name1">Benighat</SimpleData>
+		<SimpleData name="vdc_code1">C-BAG-30-004</SimpleData>
+		<SimpleData name="latitude">27.79723891755667</SimpleData>
+		<SimpleData name="longitude">84.77229727579989</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>84.772297275799886,27.797238917556669</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#npl_hltfac_DoH_WHO_wgs84_3districts">
+		<SimpleData name="hf_type">Health Post</SimpleData>
+		<SimpleData name="dist_name">Dhading</SimpleData>
+		<SimpleData name="vdc_name1">Salang</SimpleData>
+		<SimpleData name="vdc_code1">C-BAG-30-039</SimpleData>
+		<SimpleData name="latitude">27.853843332342365</SimpleData>
+		<SimpleData name="longitude">84.78283734154974</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>84.782837341549737,27.853843332342365</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#npl_hltfac_DoH_WHO_wgs84_3districts">
+		<SimpleData name="hf_type">Health Post</SimpleData>
+		<SimpleData name="dist_name">Dhading</SimpleData>
+		<SimpleData name="vdc_name1">Maidi</SimpleData>
+		<SimpleData name="vdc_code1">C-BAG-30-029</SimpleData>
+		<SimpleData name="latitude">27.913309125954733</SimpleData>
+		<SimpleData name="longitude">84.78664077695731</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>84.786640776957313,27.913309125954733</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#npl_hltfac_DoH_WHO_wgs84_3districts">
+		<SimpleData name="hf_type">Health Post</SimpleData>
+		<SimpleData name="dist_name">Dhading</SimpleData>
+		<SimpleData name="vdc_name1">Chainpur</SimpleData>
+		<SimpleData name="vdc_code1">C-BAG-30-007</SimpleData>
+		<SimpleData name="latitude">27.96856166781178</SimpleData>
+		<SimpleData name="longitude">84.80558622766428</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>84.805586227664278,27.96856166781178</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#npl_hltfac_DoH_WHO_wgs84_3districts">
+		<SimpleData name="hf_type">Health Post</SimpleData>
+		<SimpleData name="dist_name">Dhading</SimpleData>
+		<SimpleData name="vdc_name1">Sunaulabazar</SimpleData>
+		<SimpleData name="vdc_code1">C-BAG-30-046</SimpleData>
+		<SimpleData name="latitude">27.86337615843141</SimpleData>
+		<SimpleData name="longitude">84.91800370031612</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>84.91800370031612,27.863376158431411</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#npl_hltfac_DoH_WHO_wgs84_3districts">
+		<SimpleData name="hf_type">Health Post</SimpleData>
+		<SimpleData name="dist_name">Dhading</SimpleData>
+		<SimpleData name="vdc_name1">Khalte</SimpleData>
+		<SimpleData name="vdc_code1">C-BAG-30-023</SimpleData>
+		<SimpleData name="latitude">27.87741315778451</SimpleData>
+		<SimpleData name="longitude">84.96286269579976</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>84.962862695799757,27.87741315778451</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#npl_hltfac_DoH_WHO_wgs84_3districts">
+		<SimpleData name="hf_type">Health Post</SimpleData>
+		<SimpleData name="dist_name">Dhading</SimpleData>
+		<SimpleData name="vdc_name1">Kalleri</SimpleData>
+		<SimpleData name="vdc_code1">C-BAG-30-020</SimpleData>
+		<SimpleData name="latitude">27.93982409389065</SimpleData>
+		<SimpleData name="longitude">84.96503742290622</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>84.965037422906221,27.93982409389065</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#npl_hltfac_DoH_WHO_wgs84_3districts">
+		<SimpleData name="hf_type">Health Post</SimpleData>
+		<SimpleData name="dist_name">Dhading</SimpleData>
+		<SimpleData name="vdc_name1">Katunje</SimpleData>
+		<SimpleData name="vdc_code1">C-BAG-30-021</SimpleData>
+		<SimpleData name="latitude">27.982358413460535</SimpleData>
+		<SimpleData name="longitude">84.92910600798005</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>84.929106007980053,27.982358413460535</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#npl_hltfac_DoH_WHO_wgs84_3districts">
+		<SimpleData name="hf_type">Health Post</SimpleData>
+		<SimpleData name="dist_name">Dhading</SimpleData>
+		<SimpleData name="vdc_name1">Budhathum</SimpleData>
+		<SimpleData name="vdc_code1">C-BAG-30-006</SimpleData>
+		<SimpleData name="latitude">28.086457847761302</SimpleData>
+		<SimpleData name="longitude">84.84170727326482</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>84.841707273264817,28.086457847761302</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#npl_hltfac_DoH_WHO_wgs84_3districts">
+		<SimpleData name="hf_type">Health Post</SimpleData>
+		<SimpleData name="dist_name">Dhading</SimpleData>
+		<SimpleData name="vdc_name1">Phulkhark</SimpleData>
+		<SimpleData name="vdc_code1">C-BAG-30-036</SimpleData>
+		<SimpleData name="latitude">28.091847049588097</SimpleData>
+		<SimpleData name="longitude">84.90188728350988</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>84.901887283509879,28.091847049588097</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#npl_hltfac_DoH_WHO_wgs84_3districts">
+		<SimpleData name="hf_type">Health Post</SimpleData>
+		<SimpleData name="dist_name">Dhading</SimpleData>
+		<SimpleData name="vdc_name1">Darkha</SimpleData>
+		<SimpleData name="vdc_code1">C-BAG-30-009</SimpleData>
+		<SimpleData name="latitude">28.07409341643221</SimpleData>
+		<SimpleData name="longitude">85.00604747898265</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>85.006047478982651,28.074093416432209</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#npl_hltfac_DoH_WHO_wgs84_3districts">
+		<SimpleData name="hf_type">Health Post</SimpleData>
+		<SimpleData name="dist_name">Dhading</SimpleData>
+		<SimpleData name="vdc_name1">Satyadevi</SimpleData>
+		<SimpleData name="vdc_code1">C-BAG-30-043</SimpleData>
+		<SimpleData name="latitude">28.04935759431841</SimpleData>
+		<SimpleData name="longitude">85.04166004232015</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>85.041660042320146,28.049357594318408</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#npl_hltfac_DoH_WHO_wgs84_3districts">
+		<SimpleData name="hf_type">Health Post</SimpleData>
+		<SimpleData name="dist_name">Dhading</SimpleData>
+		<SimpleData name="vdc_name1">Sertung</SimpleData>
+		<SimpleData name="vdc_code1">C-BAG-30-045</SimpleData>
+		<SimpleData name="latitude">28.280613552538433</SimpleData>
+		<SimpleData name="longitude">85.11629728666547</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>85.116297286665471,28.280613552538433</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#npl_hltfac_DoH_WHO_wgs84_3districts">
+		<SimpleData name="hf_type">Sub Health Post</SimpleData>
+		<SimpleData name="dist_name">Dhading</SimpleData>
+		<SimpleData name="vdc_name1">Jogimara</SimpleData>
+		<SimpleData name="vdc_code1">C-BAG-30-018</SimpleData>
+		<SimpleData name="latitude">27.81169061327915</SimpleData>
+		<SimpleData name="longitude">84.65842629406262</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>84.658426294062622,27.811690613279151</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#npl_hltfac_DoH_WHO_wgs84_3districts">
+		<SimpleData name="hf_type">Sub Health Post</SimpleData>
+		<SimpleData name="dist_name">Dhading</SimpleData>
+		<SimpleData name="vdc_name1">Dhussa</SimpleData>
+		<SimpleData name="vdc_code1">C-BAG-30-011</SimpleData>
+		<SimpleData name="latitude">27.786276677251415</SimpleData>
+		<SimpleData name="longitude">84.73745350680677</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>84.737453506806773,27.786276677251415</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#npl_hltfac_DoH_WHO_wgs84_3districts">
+		<SimpleData name="hf_type">Sub Health Post</SimpleData>
+		<SimpleData name="dist_name">Dhading</SimpleData>
+		<SimpleData name="vdc_name1">Mahadevsthan</SimpleData>
+		<SimpleData name="vdc_code1">C-BAG-30-028</SimpleData>
+		<SimpleData name="latitude">27.743104188235527</SimpleData>
+		<SimpleData name="longitude">84.82347728497102</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>84.82347728497102,27.743104188235527</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#npl_hltfac_DoH_WHO_wgs84_3districts">
+		<SimpleData name="hf_type">Sub Health Post</SimpleData>
+		<SimpleData name="dist_name">Dhading</SimpleData>
+		<SimpleData name="vdc_name1">Kiranchok</SimpleData>
+		<SimpleData name="vdc_code1">C-BAG-30-025</SimpleData>
+		<SimpleData name="latitude">27.755237507946816</SimpleData>
+		<SimpleData name="longitude">84.93676037612009</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>84.936760376120091,27.755237507946816</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#npl_hltfac_DoH_WHO_wgs84_3districts">
+		<SimpleData name="hf_type">Sub Health Post</SimpleData>
+		<SimpleData name="dist_name">Dhading</SimpleData>
+		<SimpleData name="vdc_name1">Pida</SimpleData>
+		<SimpleData name="vdc_code1">C-BAG-30-037</SimpleData>
+		<SimpleData name="latitude">27.797768216295704</SimpleData>
+		<SimpleData name="longitude">84.90088424532645</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>84.900884245326452,27.797768216295704</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#npl_hltfac_DoH_WHO_wgs84_3districts">
+		<SimpleData name="hf_type">Sub Health Post</SimpleData>
+		<SimpleData name="dist_name">Dhading</SimpleData>
+		<SimpleData name="vdc_name1">Bhumesthan</SimpleData>
+		<SimpleData name="vdc_code1">C-BAG-30-005</SimpleData>
+		<SimpleData name="latitude">27.758014388567535</SimpleData>
+		<SimpleData name="longitude">85.02519574904179</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>85.025195749041785,27.758014388567535</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#npl_hltfac_DoH_WHO_wgs84_3districts">
+		<SimpleData name="hf_type">Sub Health Post</SimpleData>
+		<SimpleData name="dist_name">Dhading</SimpleData>
+		<SimpleData name="vdc_name1">Goganpani</SimpleData>
+		<SimpleData name="vdc_code1">C-BAG-30-014</SimpleData>
+		<SimpleData name="latitude">27.80109982797497</SimpleData>
+		<SimpleData name="longitude">85.0260873796309</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>85.026087379630894,27.801099827974969</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#npl_hltfac_DoH_WHO_wgs84_3districts">
+		<SimpleData name="hf_type">Sub Health Post</SimpleData>
+		<SimpleData name="dist_name">Dhading</SimpleData>
+		<SimpleData name="vdc_name1">Kewalpur</SimpleData>
+		<SimpleData name="vdc_code1">C-BAG-30-022</SimpleData>
+		<SimpleData name="latitude">27.766468851257425</SimpleData>
+		<SimpleData name="longitude">85.0985123502344</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>85.098512350234401,27.766468851257425</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#npl_hltfac_DoH_WHO_wgs84_3districts">
+		<SimpleData name="hf_type">Sub Health Post</SimpleData>
+		<SimpleData name="dist_name">Dhading</SimpleData>
+		<SimpleData name="vdc_name1">Jeewanpur</SimpleData>
+		<SimpleData name="vdc_code1">C-BAG-30-016</SimpleData>
+		<SimpleData name="latitude">27.75885686506651</SimpleData>
+		<SimpleData name="longitude">85.19548647675688</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>85.195486476756884,27.758856865066509</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#npl_hltfac_DoH_WHO_wgs84_3districts">
+		<SimpleData name="hf_type">Sub Health Post</SimpleData>
+		<SimpleData name="dist_name">Dhading</SimpleData>
+		<SimpleData name="vdc_name1">ChhatreDyaurali</SimpleData>
+		<SimpleData name="vdc_code1">C-BAG-30-008</SimpleData>
+		<SimpleData name="latitude">27.766778033385208</SimpleData>
+		<SimpleData name="longitude">85.23376218176823</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>85.233762181768228,27.766778033385208</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#npl_hltfac_DoH_WHO_wgs84_3districts">
+		<SimpleData name="hf_type">Sub Health Post</SimpleData>
+		<SimpleData name="dist_name">Dhading</SimpleData>
+		<SimpleData name="vdc_name1">Kalleri</SimpleData>
+		<SimpleData name="vdc_code1">C-BAG-30-020</SimpleData>
+		<SimpleData name="latitude">27.833430460590616</SimpleData>
+		<SimpleData name="longitude">85.00211190350136</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>85.002111903501358,27.833430460590616</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#npl_hltfac_DoH_WHO_wgs84_3districts">
+		<SimpleData name="hf_type">Sub Health Post</SimpleData>
+		<SimpleData name="dist_name">Dhading</SimpleData>
+		<SimpleData name="vdc_name1">Kumpur</SimpleData>
+		<SimpleData name="vdc_code1">C-BAG-30-026</SimpleData>
+		<SimpleData name="latitude">27.847866182031733</SimpleData>
+		<SimpleData name="longitude">84.87485652668067</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>84.874856526680674,27.847866182031733</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#npl_hltfac_DoH_WHO_wgs84_3districts">
+		<SimpleData name="hf_type">Sub Health Post</SimpleData>
+		<SimpleData name="dist_name">Dhading</SimpleData>
+		<SimpleData name="vdc_name1">Nalang</SimpleData>
+		<SimpleData name="vdc_code1">C-BAG-30-033</SimpleData>
+		<SimpleData name="latitude">27.8785782399688</SimpleData>
+		<SimpleData name="longitude">84.8441727194365</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>84.8441727194365,27.8785782399688</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#npl_hltfac_DoH_WHO_wgs84_3districts">
+		<SimpleData name="hf_type">Sub Health Post</SimpleData>
+		<SimpleData name="dist_name">Dhading</SimpleData>
+		<SimpleData name="vdc_name1">Dhola</SimpleData>
+		<SimpleData name="vdc_code1">C-BAG-30-010</SimpleData>
+		<SimpleData name="latitude">27.9215817167597</SimpleData>
+		<SimpleData name="longitude">84.83997590387331</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>84.839975903873309,27.9215817167597</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#npl_hltfac_DoH_WHO_wgs84_3districts">
+		<SimpleData name="hf_type">Sub Health Post</SimpleData>
+		<SimpleData name="dist_name">Dhading</SimpleData>
+		<SimpleData name="vdc_name1">Khari</SimpleData>
+		<SimpleData name="vdc_code1">C-BAG-30-024</SimpleData>
+		<SimpleData name="latitude">27.9418648566112</SimpleData>
+		<SimpleData name="longitude">84.80779851947837</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>84.807798519478368,27.9418648566112</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#npl_hltfac_DoH_WHO_wgs84_3districts">
+		<SimpleData name="hf_type">Sub Health Post</SimpleData>
+		<SimpleData name="dist_name">Dhading</SimpleData>
+		<SimpleData name="vdc_name1">Sangkosh</SimpleData>
+		<SimpleData name="vdc_code1">C-BAG-30-042</SimpleData>
+		<SimpleData name="latitude">27.952486740164684</SimpleData>
+		<SimpleData name="longitude">84.9179687250987</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>84.917968725098703,27.952486740164684</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#npl_hltfac_DoH_WHO_wgs84_3districts">
+		<SimpleData name="hf_type">Sub Health Post</SimpleData>
+		<SimpleData name="dist_name">Dhading</SimpleData>
+		<SimpleData name="vdc_name1">Jyamrung</SimpleData>
+		<SimpleData name="vdc_code1">C-BAG-30-019</SimpleData>
+		<SimpleData name="latitude">27.98328402706186</SimpleData>
+		<SimpleData name="longitude">84.89228227028379</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>84.892282270283786,27.98328402706186</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#npl_hltfac_DoH_WHO_wgs84_3districts">
+		<SimpleData name="hf_type">Sub Health Post</SimpleData>
+		<SimpleData name="dist_name">Dhading</SimpleData>
+		<SimpleData name="vdc_name1">Aginchok</SimpleData>
+		<SimpleData name="vdc_code1">C-BAG-30-001</SimpleData>
+		<SimpleData name="latitude">28.03887012310175</SimpleData>
+		<SimpleData name="longitude">84.83763671470373</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>84.837636714703734,28.038870123101749</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#npl_hltfac_DoH_WHO_wgs84_3districts">
+		<SimpleData name="hf_type">Sub Health Post</SimpleData>
+		<SimpleData name="dist_name">Dhading</SimpleData>
+		<SimpleData name="vdc_name1">Salyankot</SimpleData>
+		<SimpleData name="vdc_code1">C-BAG-30-040</SimpleData>
+		<SimpleData name="latitude">28.026494347107757</SimpleData>
+		<SimpleData name="longitude">84.90148276364346</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>84.901482763643457,28.026494347107757</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#npl_hltfac_DoH_WHO_wgs84_3districts">
+		<SimpleData name="hf_type">Sub Health Post</SimpleData>
+		<SimpleData name="dist_name">Dhading</SimpleData>
+		<SimpleData name="vdc_name1">Tripureswor</SimpleData>
+		<SimpleData name="vdc_code1">C-BAG-30-050</SimpleData>
+		<SimpleData name="latitude">28.009854462077588</SimpleData>
+		<SimpleData name="longitude">84.88172466255955</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>84.881724662559549,28.009854462077588</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#npl_hltfac_DoH_WHO_wgs84_3districts">
+		<SimpleData name="hf_type">Sub Health Post</SimpleData>
+		<SimpleData name="dist_name">Dhading</SimpleData>
+		<SimpleData name="vdc_name1">Marpak</SimpleData>
+		<SimpleData name="vdc_code1">C-BAG-30-030</SimpleData>
+		<SimpleData name="latitude">28.021561473170497</SimpleData>
+		<SimpleData name="longitude">84.96852283121457</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>84.968522831214571,28.021561473170497</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#npl_hltfac_DoH_WHO_wgs84_3districts">
+		<SimpleData name="hf_type">Sub Health Post</SimpleData>
+		<SimpleData name="dist_name">Dhading</SimpleData>
+		<SimpleData name="vdc_name1">Semjong</SimpleData>
+		<SimpleData name="vdc_code1">C-BAG-30-044</SimpleData>
+		<SimpleData name="latitude">27.99091976778334</SimpleData>
+		<SimpleData name="longitude">85.00590742547321</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>85.005907425473211,27.990919767783339</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#npl_hltfac_DoH_WHO_wgs84_3districts">
+		<SimpleData name="hf_type">Sub Health Post</SimpleData>
+		<SimpleData name="dist_name">Dhading</SimpleData>
+		<SimpleData name="vdc_name1">Gumdi</SimpleData>
+		<SimpleData name="vdc_code1">C-BAG-30-015</SimpleData>
+		<SimpleData name="latitude">28.060016520869993</SimpleData>
+		<SimpleData name="longitude">84.95775465517156</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>84.957754655171556,28.060016520869993</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#npl_hltfac_DoH_WHO_wgs84_3districts">
+		<SimpleData name="hf_type">Sub Health Post</SimpleData>
+		<SimpleData name="dist_name">Dhading</SimpleData>
+		<SimpleData name="vdc_name1">Mulpani</SimpleData>
+		<SimpleData name="vdc_code1">C-BAG-30-031</SimpleData>
+		<SimpleData name="latitude">28.054369418152437</SimpleData>
+		<SimpleData name="longitude">84.87917833549463</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>84.879178335494629,28.054369418152437</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#npl_hltfac_DoH_WHO_wgs84_3districts">
+		<SimpleData name="hf_type">Sub Health Post</SimpleData>
+		<SimpleData name="dist_name">Dhading</SimpleData>
+		<SimpleData name="vdc_name1">Baseri</SimpleData>
+		<SimpleData name="vdc_code1">C-BAG-30-003</SimpleData>
+		<SimpleData name="latitude">28.110527045180326</SimpleData>
+		<SimpleData name="longitude">84.86132472072376</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>84.861324720723758,28.110527045180326</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#npl_hltfac_DoH_WHO_wgs84_3districts">
+		<SimpleData name="hf_type">Sub Health Post</SimpleData>
+		<SimpleData name="dist_name">Dhading</SimpleData>
+		<SimpleData name="vdc_name1">ReeGaun</SimpleData>
+		<SimpleData name="vdc_code1">C-BAG-30-038</SimpleData>
+		<SimpleData name="latitude">28.133018115912535</SimpleData>
+		<SimpleData name="longitude">84.97312527679125</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>84.973125276791251,28.133018115912535</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#npl_hltfac_DoH_WHO_wgs84_3districts">
+		<SimpleData name="hf_type">Sub Health Post</SimpleData>
+		<SimpleData name="dist_name">Dhading</SimpleData>
+		<SimpleData name="vdc_name1">Jharlang</SimpleData>
+		<SimpleData name="vdc_code1">C-BAG-30-017</SimpleData>
+		<SimpleData name="latitude">28.117659789620713</SimpleData>
+		<SimpleData name="longitude">85.04042001519831</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>85.040420015198308,28.117659789620713</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#npl_hltfac_DoH_WHO_wgs84_3districts">
+		<SimpleData name="hf_type">Sub Health Post</SimpleData>
+		<SimpleData name="dist_name">Dhading</SimpleData>
+		<SimpleData name="vdc_name1">Tipling</SimpleData>
+		<SimpleData name="vdc_code1">C-BAG-30-049</SimpleData>
+		<SimpleData name="latitude">28.241116010882735</SimpleData>
+		<SimpleData name="longitude">85.16059757844972</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>85.160597578449725,28.241116010882735</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#npl_hltfac_DoH_WHO_wgs84_3districts">
+		<SimpleData name="hf_type">Sub Health Post</SimpleData>
+		<SimpleData name="dist_name">Dhading</SimpleData>
+		<SimpleData name="vdc_name1">Lapa</SimpleData>
+		<SimpleData name="vdc_code1">C-BAG-30-027</SimpleData>
+		<SimpleData name="latitude">28.309701270843533</SimpleData>
+		<SimpleData name="longitude">85.0721517816109</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>85.072151781610899,28.309701270843533</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#npl_hltfac_DoH_WHO_wgs84_3districts">
+		<SimpleData name="hf_type">Sub Health Post</SimpleData>
+		<SimpleData name="dist_name">Dhading</SimpleData>
+		<SimpleData name="vdc_name1">Tasarpu</SimpleData>
+		<SimpleData name="vdc_code1">C-BAG-30-047</SimpleData>
+		<SimpleData name="latitude">27.728882376029464</SimpleData>
+		<SimpleData name="longitude">85.0657813809933</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>85.0657813809933,27.728882376029464</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#npl_hltfac_DoH_WHO_wgs84_3districts">
+		<SimpleData name="hf_type">Sub Health Post</SimpleData>
+		<SimpleData name="dist_name">Dhading</SimpleData>
+		<SimpleData name="vdc_name1">Muralibhanjyang</SimpleData>
+		<SimpleData name="vdc_code1">C-BAG-30-032</SimpleData>
+		<SimpleData name="latitude">27.93981508316214</SimpleData>
+		<SimpleData name="longitude">84.86636991309783</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>84.866369913097827,27.939815083162141</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#npl_hltfac_DoH_WHO_wgs84_3districts">
+		<SimpleData name="hf_type">Distict Cold Room</SimpleData>
+		<SimpleData name="dist_name">Dhading</SimpleData>
+		<SimpleData name="vdc_name1">Nilkantha</SimpleData>
+		<SimpleData name="vdc_code1">C-BAG-30-035</SimpleData>
+		<SimpleData name="latitude">27.91423488916169</SimpleData>
+		<SimpleData name="longitude">84.94210933557912</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>84.942109335579119,27.91423488916169</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#npl_hltfac_DoH_WHO_wgs84_3districts">
+		<SimpleData name="hf_type">Sub Center</SimpleData>
+		<SimpleData name="dist_name">Dhading</SimpleData>
+		<SimpleData name="vdc_name1">Baireni</SimpleData>
+		<SimpleData name="vdc_code1">C-BAG-30-002</SimpleData>
+		<SimpleData name="latitude">27.784333547173777</SimpleData>
+		<SimpleData name="longitude">84.99633031955416</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>84.996330319554161,27.784333547173777</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#npl_hltfac_DoH_WHO_wgs84_3districts">
+		<SimpleData name="hf_type">Sub Center</SimpleData>
+		<SimpleData name="dist_name">Dhading</SimpleData>
+		<SimpleData name="vdc_name1">Darkha</SimpleData>
+		<SimpleData name="vdc_code1">C-BAG-30-009</SimpleData>
+		<SimpleData name="latitude">28.062336319705214</SimpleData>
+		<SimpleData name="longitude">85.01463602084512</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>85.014636020845117,28.062336319705214</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#npl_hltfac_DoH_WHO_wgs84_3districts">
+		<SimpleData name="hf_type">Sub Center</SimpleData>
+		<SimpleData name="dist_name">Dhading</SimpleData>
+		<SimpleData name="vdc_name1">Salyantar</SimpleData>
+		<SimpleData name="vdc_code1">C-BAG-30-041</SimpleData>
+		<SimpleData name="latitude">28.02222149684922</SimpleData>
+		<SimpleData name="longitude">84.81788696090108</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>84.817886960901077,28.02222149684922</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#npl_hltfac_DoH_WHO_wgs84_3districts">
+		<SimpleData name="hf_type">District Cold Room</SimpleData>
+		<SimpleData name="dist_name">Dhading</SimpleData>
+		<SimpleData name="vdc_name1">Nilkantha</SimpleData>
+		<SimpleData name="vdc_code1">C-BAG-30-035</SimpleData>
+		<SimpleData name="latitude">27.90884091798558</SimpleData>
+		<SimpleData name="longitude">84.95823011629129</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>84.95823011629129,27.908840917985579</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#npl_hltfac_DoH_WHO_wgs84_3districts">
+		<SimpleData name="hf_type">DPHO</SimpleData>
+		<SimpleData name="dist_name">Gorkha</SimpleData>
+		<SimpleData name="vdc_name1">PrithbinarayanN.P.</SimpleData>
+		<SimpleData name="vdc_code1">W-GAN-36-050</SimpleData>
+		<SimpleData name="latitude">27.99125379835771</SimpleData>
+		<SimpleData name="longitude">84.61875988661197</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>84.618759886611969,27.991253798357711</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#npl_hltfac_DoH_WHO_wgs84_3districts">
+		<SimpleData name="hf_type">Hospital</SimpleData>
+		<SimpleData name="dist_name">Gorkha</SimpleData>
+		<SimpleData name="vdc_name1">PrithbinarayanN.P.</SimpleData>
+		<SimpleData name="vdc_code1">W-GAN-36-050</SimpleData>
+		<SimpleData name="latitude">28.002448203419352</SimpleData>
+		<SimpleData name="longitude">84.59139915191624</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>84.591399151916235,28.002448203419352</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#npl_hltfac_DoH_WHO_wgs84_3districts">
+		<SimpleData name="hf_type">Hospital</SimpleData>
+		<SimpleData name="dist_name">Gorkha</SimpleData>
+		<SimpleData name="vdc_name1">Aanppipal</SimpleData>
+		<SimpleData name="vdc_code1">W-GAN-36-001</SimpleData>
+		<SimpleData name="latitude">28.064850572112448</SimpleData>
+		<SimpleData name="longitude">84.54390555933914</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>84.543905559339137,28.064850572112448</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#npl_hltfac_DoH_WHO_wgs84_3districts">
+		<SimpleData name="hf_type">Primary Health Center</SimpleData>
+		<SimpleData name="dist_name">Gorkha</SimpleData>
+		<SimpleData name="vdc_name1">Makaising</SimpleData>
+		<SimpleData name="vdc_code1">W-GAN-36-040</SimpleData>
+		<SimpleData name="latitude">27.88245460179588</SimpleData>
+		<SimpleData name="longitude">84.65662694460886</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>84.65662694460886,27.882454601795882</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#npl_hltfac_DoH_WHO_wgs84_3districts">
+		<SimpleData name="hf_type">Primary Health Center</SimpleData>
+		<SimpleData name="dist_name">Gorkha</SimpleData>
+		<SimpleData name="vdc_name1">Jaubari</SimpleData>
+		<SimpleData name="vdc_code1">W-GAN-36-031</SimpleData>
+		<SimpleData name="latitude">28.126703065250965</SimpleData>
+		<SimpleData name="longitude">84.63189765503809</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>84.631897655038088,28.126703065250965</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#npl_hltfac_DoH_WHO_wgs84_3districts">
+		<SimpleData name="hf_type">Primary Health Center</SimpleData>
+		<SimpleData name="dist_name">Gorkha</SimpleData>
+		<SimpleData name="vdc_name1">AaruChanuate</SimpleData>
+		<SimpleData name="vdc_code1">W-GAN-36-003</SimpleData>
+		<SimpleData name="latitude">28.07790547671156</SimpleData>
+		<SimpleData name="longitude">84.80587246025767</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>84.805872460257675,28.07790547671156</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#npl_hltfac_DoH_WHO_wgs84_3districts">
+		<SimpleData name="hf_type">Health Post</SimpleData>
+		<SimpleData name="dist_name">Gorkha</SimpleData>
+		<SimpleData name="vdc_name1">Prok</SimpleData>
+		<SimpleData name="vdc_code1">W-GAN-36-051</SimpleData>
+		<SimpleData name="latitude">28.568947505282846</SimpleData>
+		<SimpleData name="longitude">84.80356894217239</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>84.80356894217239,28.568947505282846</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#npl_hltfac_DoH_WHO_wgs84_3districts">
+		<SimpleData name="hf_type">Health Post</SimpleData>
+		<SimpleData name="dist_name">Gorkha</SimpleData>
+		<SimpleData name="vdc_name1">Chhaikampar</SimpleData>
+		<SimpleData name="vdc_code1">W-GAN-36-013</SimpleData>
+		<SimpleData name="latitude">28.509573640385398</SimpleData>
+		<SimpleData name="longitude">85.09351393812564</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>85.093513938125639,28.509573640385398</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#npl_hltfac_DoH_WHO_wgs84_3districts">
+		<SimpleData name="hf_type">Health Post</SimpleData>
+		<SimpleData name="dist_name">Gorkha</SimpleData>
+		<SimpleData name="vdc_name1">Gumda</SimpleData>
+		<SimpleData name="vdc_code1">W-GAN-36-028</SimpleData>
+		<SimpleData name="latitude">28.31057443016272</SimpleData>
+		<SimpleData name="longitude">84.80890159114756</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>84.80890159114756,28.31057443016272</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#npl_hltfac_DoH_WHO_wgs84_3districts">
+		<SimpleData name="hf_type">Health Post</SimpleData>
+		<SimpleData name="dist_name">Gorkha</SimpleData>
+		<SimpleData name="vdc_name1">Manbu</SimpleData>
+		<SimpleData name="vdc_code1">W-GAN-36-042</SimpleData>
+		<SimpleData name="latitude">28.167841985336647</SimpleData>
+		<SimpleData name="longitude">84.93820793871102</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>84.938207938711017,28.167841985336647</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#npl_hltfac_DoH_WHO_wgs84_3districts">
+		<SimpleData name="hf_type">Health Post</SimpleData>
+		<SimpleData name="dist_name">Gorkha</SimpleData>
+		<SimpleData name="vdc_name1">Hansapur</SimpleData>
+		<SimpleData name="vdc_code1">W-GAN-36-029</SimpleData>
+		<SimpleData name="latitude">28.176919507420376</SimpleData>
+		<SimpleData name="longitude">84.64634761104071</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>84.64634761104071,28.176919507420376</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#npl_hltfac_DoH_WHO_wgs84_3districts">
+		<SimpleData name="hf_type">Health Post</SimpleData>
+		<SimpleData name="dist_name">Gorkha</SimpleData>
+		<SimpleData name="vdc_name1">Takumajhalakuribot</SimpleData>
+		<SimpleData name="vdc_code1">W-GAN-36-060</SimpleData>
+		<SimpleData name="latitude">28.105208138156748</SimpleData>
+		<SimpleData name="longitude">84.68483587789092</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>84.684835877890919,28.105208138156748</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#npl_hltfac_DoH_WHO_wgs84_3districts">
+		<SimpleData name="hf_type">Health Post</SimpleData>
+		<SimpleData name="dist_name">Gorkha</SimpleData>
+		<SimpleData name="vdc_name1">Masel</SimpleData>
+		<SimpleData name="vdc_code1">W-GAN-36-043</SimpleData>
+		<SimpleData name="latitude">28.049893350360133</SimpleData>
+		<SimpleData name="longitude">84.67436912772024</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>84.67436912772024,28.049893350360133</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#npl_hltfac_DoH_WHO_wgs84_3districts">
+		<SimpleData name="hf_type">Health Post</SimpleData>
+		<SimpleData name="dist_name">Gorkha</SimpleData>
+		<SimpleData name="vdc_name1">Bunkot</SimpleData>
+		<SimpleData name="vdc_code1">W-GAN-36-012</SimpleData>
+		<SimpleData name="latitude">27.979240575399533</SimpleData>
+		<SimpleData name="longitude">84.67394632890327</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>84.67394632890327,27.979240575399533</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#npl_hltfac_DoH_WHO_wgs84_3districts">
+		<SimpleData name="hf_type">Health Post</SimpleData>
+		<SimpleData name="dist_name">Gorkha</SimpleData>
+		<SimpleData name="vdc_name1">Palumtar</SimpleData>
+		<SimpleData name="vdc_code1">W-GAN-36-047</SimpleData>
+		<SimpleData name="latitude">28.058877346235008</SimpleData>
+		<SimpleData name="longitude">84.49937009054976</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>84.49937009054976,28.058877346235008</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#npl_hltfac_DoH_WHO_wgs84_3districts">
+		<SimpleData name="hf_type">Health Post</SimpleData>
+		<SimpleData name="dist_name">Gorkha</SimpleData>
+		<SimpleData name="vdc_name1">Dhuwakot</SimpleData>
+		<SimpleData name="vdc_code1">W-GAN-36-020</SimpleData>
+		<SimpleData name="latitude">27.971840107741286</SimpleData>
+		<SimpleData name="longitude">84.51268254243753</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>84.512682542437531,27.971840107741286</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#npl_hltfac_DoH_WHO_wgs84_3districts">
+		<SimpleData name="hf_type">Sub Health Post</SimpleData>
+		<SimpleData name="dist_name">Gorkha</SimpleData>
+		<SimpleData name="vdc_name1">Samagaun</SimpleData>
+		<SimpleData name="vdc_code1">W-GAN-36-052</SimpleData>
+		<SimpleData name="latitude">28.706205974022673</SimpleData>
+		<SimpleData name="longitude">84.56815475095206</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>84.568154750952061,28.706205974022673</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#npl_hltfac_DoH_WHO_wgs84_3districts">
+		<SimpleData name="hf_type">Sub Health Post</SimpleData>
+		<SimpleData name="dist_name">Gorkha</SimpleData>
+		<SimpleData name="vdc_name1">Lho</SimpleData>
+		<SimpleData name="vdc_code1">W-GAN-36-039</SimpleData>
+		<SimpleData name="latitude">28.59005204940317</SimpleData>
+		<SimpleData name="longitude">84.72504525460265</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>84.725045254602648,28.59005204940317</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#npl_hltfac_DoH_WHO_wgs84_3districts">
+		<SimpleData name="hf_type">Sub Health Post</SimpleData>
+		<SimpleData name="dist_name">Gorkha</SimpleData>
+		<SimpleData name="vdc_name1">Bihi</SimpleData>
+		<SimpleData name="vdc_code1">W-GAN-36-010</SimpleData>
+		<SimpleData name="latitude">28.56553499600429</SimpleData>
+		<SimpleData name="longitude">84.91488892591384</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>84.914888925913843,28.565534996004288</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#npl_hltfac_DoH_WHO_wgs84_3districts">
+		<SimpleData name="hf_type">Sub Health Post</SimpleData>
+		<SimpleData name="dist_name">Gorkha</SimpleData>
+		<SimpleData name="vdc_name1">Chumchet</SimpleData>
+		<SimpleData name="vdc_code1">W-GAN-36-015</SimpleData>
+		<SimpleData name="latitude">28.56527669734875</SimpleData>
+		<SimpleData name="longitude">85.01248424835302</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>85.012484248353019,28.56527669734875</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#npl_hltfac_DoH_WHO_wgs84_3districts">
+		<SimpleData name="hf_type">Sub Health Post</SimpleData>
+		<SimpleData name="dist_name">Gorkha</SimpleData>
+		<SimpleData name="vdc_name1">Sirdibas</SimpleData>
+		<SimpleData name="vdc_code1">W-GAN-36-056</SimpleData>
+		<SimpleData name="latitude">28.441073909084302</SimpleData>
+		<SimpleData name="longitude">84.78087481167678</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>84.780874811676782,28.441073909084302</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#npl_hltfac_DoH_WHO_wgs84_3districts">
+		<SimpleData name="hf_type">Sub Health Post</SimpleData>
+		<SimpleData name="dist_name">Gorkha</SimpleData>
+		<SimpleData name="vdc_name1">Kerauja</SimpleData>
+		<SimpleData name="vdc_code1">W-GAN-36-034</SimpleData>
+		<SimpleData name="latitude">28.43822027274605</SimpleData>
+		<SimpleData name="longitude">85.04410717803843</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>85.044107178038431,28.438220272746051</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#npl_hltfac_DoH_WHO_wgs84_3districts">
+		<SimpleData name="hf_type">Sub Health Post</SimpleData>
+		<SimpleData name="dist_name">Gorkha</SimpleData>
+		<SimpleData name="vdc_name1">Uhya</SimpleData>
+		<SimpleData name="vdc_code1">W-GAN-36-066</SimpleData>
+		<SimpleData name="latitude">28.335463195969837</SimpleData>
+		<SimpleData name="longitude">84.8570782378431</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>84.857078237843098,28.335463195969837</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#npl_hltfac_DoH_WHO_wgs84_3districts">
+		<SimpleData name="hf_type">Sub Health Post</SimpleData>
+		<SimpleData name="dist_name">Gorkha</SimpleData>
+		<SimpleData name="vdc_name1">Kashigaun</SimpleData>
+		<SimpleData name="vdc_code1">W-GAN-36-032</SimpleData>
+		<SimpleData name="latitude">28.20939135146841</SimpleData>
+		<SimpleData name="longitude">84.95102720954965</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>84.95102720954965,28.209391351468408</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#npl_hltfac_DoH_WHO_wgs84_3districts">
+		<SimpleData name="hf_type">Sub Health Post</SimpleData>
+		<SimpleData name="dist_name">Gorkha</SimpleData>
+		<SimpleData name="vdc_name1">Lapu</SimpleData>
+		<SimpleData name="vdc_code1">W-GAN-36-038</SimpleData>
+		<SimpleData name="latitude">28.18735067178688</SimpleData>
+		<SimpleData name="longitude">84.86198481446179</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>84.861984814461792,28.187350671786881</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#npl_hltfac_DoH_WHO_wgs84_3districts">
+		<SimpleData name="hf_type">Sub Health Post</SimpleData>
+		<SimpleData name="dist_name">Gorkha</SimpleData>
+		<SimpleData name="vdc_name1">Warpak</SimpleData>
+		<SimpleData name="vdc_code1">W-GAN-36-067</SimpleData>
+		<SimpleData name="latitude">28.278491635946402</SimpleData>
+		<SimpleData name="longitude">84.743380890479</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>84.743380890479003,28.278491635946402</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#npl_hltfac_DoH_WHO_wgs84_3districts">
+		<SimpleData name="hf_type">Sub Health Post</SimpleData>
+		<SimpleData name="dist_name">Gorkha</SimpleData>
+		<SimpleData name="vdc_name1">Ghyachok</SimpleData>
+		<SimpleData name="vdc_code1">W-GAN-36-026</SimpleData>
+		<SimpleData name="latitude">28.319246103485877</SimpleData>
+		<SimpleData name="longitude">84.70747245779141</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>84.707472457791411,28.319246103485877</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#npl_hltfac_DoH_WHO_wgs84_3districts">
+		<SimpleData name="hf_type">Sub Health Post</SimpleData>
+		<SimpleData name="dist_name">Gorkha</SimpleData>
+		<SimpleData name="vdc_name1">Kharibot</SimpleData>
+		<SimpleData name="vdc_code1">W-GAN-36-035</SimpleData>
+		<SimpleData name="latitude">28.27724972639756</SimpleData>
+		<SimpleData name="longitude">84.66944632084493</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>84.669446320844926,28.27724972639756</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#npl_hltfac_DoH_WHO_wgs84_3districts">
+		<SimpleData name="hf_type">Sub Health Post</SimpleData>
+		<SimpleData name="dist_name">Gorkha</SimpleData>
+		<SimpleData name="vdc_name1">Simjung</SimpleData>
+		<SimpleData name="vdc_code1">W-GAN-36-055</SimpleData>
+		<SimpleData name="latitude">28.17234952786794</SimpleData>
+		<SimpleData name="longitude">84.68144683518393</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>84.681446835183934,28.17234952786794</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#npl_hltfac_DoH_WHO_wgs84_3districts">
+		<SimpleData name="hf_type">Sub Health Post</SimpleData>
+		<SimpleData name="dist_name">Gorkha</SimpleData>
+		<SimpleData name="vdc_name1">Muchhok</SimpleData>
+		<SimpleData name="vdc_code1">W-GAN-36-044</SimpleData>
+		<SimpleData name="latitude">28.144361111715916</SimpleData>
+		<SimpleData name="longitude">84.65677953183926</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>84.656779531839263,28.144361111715916</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#npl_hltfac_DoH_WHO_wgs84_3districts">
+		<SimpleData name="hf_type">Sub Health Post</SimpleData>
+		<SimpleData name="dist_name">Gorkha</SimpleData>
+		<SimpleData name="vdc_name1">Saurpani</SimpleData>
+		<SimpleData name="vdc_code1">W-GAN-36-053</SimpleData>
+		<SimpleData name="latitude">28.15922287087377</SimpleData>
+		<SimpleData name="longitude">84.72061364920887</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>84.720613649208872,28.159222870873769</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#npl_hltfac_DoH_WHO_wgs84_3districts">
+		<SimpleData name="hf_type">Sub Health Post</SimpleData>
+		<SimpleData name="dist_name">Gorkha</SimpleData>
+		<SimpleData name="vdc_name1">Swara</SimpleData>
+		<SimpleData name="vdc_code1">W-GAN-36-057</SimpleData>
+		<SimpleData name="latitude">28.132272570489782</SimpleData>
+		<SimpleData name="longitude">84.75811530888294</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>84.758115308882935,28.132272570489782</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#npl_hltfac_DoH_WHO_wgs84_3districts">
+		<SimpleData name="hf_type">Sub Health Post</SimpleData>
+		<SimpleData name="dist_name">Gorkha</SimpleData>
+		<SimpleData name="vdc_name1">Thumi</SimpleData>
+		<SimpleData name="vdc_code1">W-GAN-36-065</SimpleData>
+		<SimpleData name="latitude">28.140535349648292</SimpleData>
+		<SimpleData name="longitude">84.84347583721426</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>84.843475837214257,28.140535349648292</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#npl_hltfac_DoH_WHO_wgs84_3districts">
+		<SimpleData name="hf_type">Sub Health Post</SimpleData>
+		<SimpleData name="dist_name">Gorkha</SimpleData>
+		<SimpleData name="vdc_name1">AaruArbang</SimpleData>
+		<SimpleData name="vdc_code1">W-GAN-36-002</SimpleData>
+		<SimpleData name="latitude">28.09995527340603</SimpleData>
+		<SimpleData name="longitude">84.78404885751004</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>84.784048857510044,28.099955273406032</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#npl_hltfac_DoH_WHO_wgs84_3districts">
+		<SimpleData name="hf_type">Sub Health Post</SimpleData>
+		<SimpleData name="dist_name">Gorkha</SimpleData>
+		<SimpleData name="vdc_name1">Aarupokhari</SimpleData>
+		<SimpleData name="vdc_code1">W-GAN-36-004</SimpleData>
+		<SimpleData name="latitude">28.055262772454245</SimpleData>
+		<SimpleData name="longitude">84.79079350069497</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>84.790793500694974,28.055262772454245</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#npl_hltfac_DoH_WHO_wgs84_3districts">
+		<SimpleData name="hf_type">Sub Health Post</SimpleData>
+		<SimpleData name="dist_name">Gorkha</SimpleData>
+		<SimpleData name="vdc_name1">Panchkhuwadeurali</SimpleData>
+		<SimpleData name="vdc_code1">W-GAN-36-048</SimpleData>
+		<SimpleData name="latitude">28.07686544578611</SimpleData>
+		<SimpleData name="longitude">84.74178274854232</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>84.74178274854232,28.076865445786112</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#npl_hltfac_DoH_WHO_wgs84_3districts">
+		<SimpleData name="hf_type">Sub Health Post</SimpleData>
+		<SimpleData name="dist_name">Gorkha</SimpleData>
+		<SimpleData name="vdc_name1">Pandrung</SimpleData>
+		<SimpleData name="vdc_code1">W-GAN-36-049</SimpleData>
+		<SimpleData name="latitude">28.068750016948066</SimpleData>
+		<SimpleData name="longitude">84.71890826408139</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>84.718908264081392,28.068750016948066</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#npl_hltfac_DoH_WHO_wgs84_3districts">
+		<SimpleData name="hf_type">Sub Health Post</SimpleData>
+		<SimpleData name="dist_name">Gorkha</SimpleData>
+		<SimpleData name="vdc_name1">Tandrang</SimpleData>
+		<SimpleData name="vdc_code1">W-GAN-36-061</SimpleData>
+		<SimpleData name="latitude">28.03268153372149</SimpleData>
+		<SimpleData name="longitude">84.77960327010767</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>84.779603270107671,28.03268153372149</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#npl_hltfac_DoH_WHO_wgs84_3districts">
+		<SimpleData name="hf_type">Sub Health Post</SimpleData>
+		<SimpleData name="dist_name">Gorkha</SimpleData>
+		<SimpleData name="vdc_name1">Dhawa</SimpleData>
+		<SimpleData name="vdc_code1">W-GAN-36-019</SimpleData>
+		<SimpleData name="latitude">28.020244436607467</SimpleData>
+		<SimpleData name="longitude">84.75754774319141</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>84.757547743191409,28.020244436607467</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#npl_hltfac_DoH_WHO_wgs84_3districts">
+		<SimpleData name="hf_type">Sub Health Post</SimpleData>
+		<SimpleData name="dist_name">Gorkha</SimpleData>
+		<SimpleData name="vdc_name1">Baguwa</SimpleData>
+		<SimpleData name="vdc_code1">W-GAN-36-006</SimpleData>
+		<SimpleData name="latitude">28.02821810109326</SimpleData>
+		<SimpleData name="longitude">84.71755545964287</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>84.717555459642867,28.028218101093259</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#npl_hltfac_DoH_WHO_wgs84_3districts">
+		<SimpleData name="hf_type">Sub Health Post</SimpleData>
+		<SimpleData name="dist_name">Gorkha</SimpleData>
+		<SimpleData name="vdc_name1">Takukot</SimpleData>
+		<SimpleData name="vdc_code1">W-GAN-36-059</SimpleData>
+		<SimpleData name="latitude">28.067764748745315</SimpleData>
+		<SimpleData name="longitude">84.67131805432443</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>84.671318054324431,28.067764748745315</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#npl_hltfac_DoH_WHO_wgs84_3districts">
+		<SimpleData name="hf_type">Sub Health Post</SimpleData>
+		<SimpleData name="dist_name">Gorkha</SimpleData>
+		<SimpleData name="vdc_name1">Shreenathkot</SimpleData>
+		<SimpleData name="vdc_code1">W-GAN-36-054</SimpleData>
+		<SimpleData name="latitude">28.094078677449787</SimpleData>
+		<SimpleData name="longitude">84.63844336489306</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>84.638443364893064,28.094078677449787</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#npl_hltfac_DoH_WHO_wgs84_3districts">
+		<SimpleData name="hf_type">Sub Health Post</SimpleData>
+		<SimpleData name="dist_name">Gorkha</SimpleData>
+		<SimpleData name="vdc_name1">Kerabari</SimpleData>
+		<SimpleData name="vdc_code1">W-GAN-36-033</SimpleData>
+		<SimpleData name="latitude">28.14011066549202</SimpleData>
+		<SimpleData name="longitude">84.61022113853335</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>84.610221138533348,28.140110665492021</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#npl_hltfac_DoH_WHO_wgs84_3districts">
+		<SimpleData name="hf_type">Sub Health Post</SimpleData>
+		<SimpleData name="dist_name">Gorkha</SimpleData>
+		<SimpleData name="vdc_name1">Thalajung</SimpleData>
+		<SimpleData name="vdc_code1">W-GAN-36-064</SimpleData>
+		<SimpleData name="latitude">28.108426101056867</SimpleData>
+		<SimpleData name="longitude">84.57206045831387</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>84.572060458313871,28.108426101056867</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#npl_hltfac_DoH_WHO_wgs84_3districts">
+		<SimpleData name="hf_type">Sub Health Post</SimpleData>
+		<SimpleData name="dist_name">Gorkha</SimpleData>
+		<SimpleData name="vdc_name1">Harmhi</SimpleData>
+		<SimpleData name="vdc_code1">W-GAN-36-030</SimpleData>
+		<SimpleData name="latitude">28.083621149069614</SimpleData>
+		<SimpleData name="longitude">84.53376487006175</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>84.533764870061745,28.083621149069614</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#npl_hltfac_DoH_WHO_wgs84_3districts">
+		<SimpleData name="hf_type">Sub Health Post</SimpleData>
+		<SimpleData name="dist_name">Gorkha</SimpleData>
+		<SimpleData name="vdc_name1">Chhoprak</SimpleData>
+		<SimpleData name="vdc_code1">W-GAN-36-014</SimpleData>
+		<SimpleData name="latitude">28.069019005596044</SimpleData>
+		<SimpleData name="longitude">84.58460215973295</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>84.584602159732952,28.069019005596044</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#npl_hltfac_DoH_WHO_wgs84_3districts">
+		<SimpleData name="hf_type">Sub Health Post</SimpleData>
+		<SimpleData name="dist_name">Gorkha</SimpleData>
+		<SimpleData name="vdc_name1">Gakhu</SimpleData>
+		<SimpleData name="vdc_code1">W-GAN-36-024</SimpleData>
+		<SimpleData name="latitude">28.06274045136666</SimpleData>
+		<SimpleData name="longitude">84.61970522965963</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>84.61970522965963,28.062740451366661</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#npl_hltfac_DoH_WHO_wgs84_3districts">
+		<SimpleData name="hf_type">Sub Health Post</SimpleData>
+		<SimpleData name="dist_name">Gorkha</SimpleData>
+		<SimpleData name="vdc_name1">Nareshwor</SimpleData>
+		<SimpleData name="vdc_code1">W-GAN-36-046</SimpleData>
+		<SimpleData name="latitude">28.03692379966572</SimpleData>
+		<SimpleData name="longitude">84.6350478085865</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>84.635047808586506,28.036923799665718</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#npl_hltfac_DoH_WHO_wgs84_3districts">
+		<SimpleData name="hf_type">Sub Health Post</SimpleData>
+		<SimpleData name="dist_name">Gorkha</SimpleData>
+		<SimpleData name="vdc_name1">Taple</SimpleData>
+		<SimpleData name="vdc_code1">W-GAN-36-063</SimpleData>
+		<SimpleData name="latitude">28.029158389833942</SimpleData>
+		<SimpleData name="longitude">84.67093159907097</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>84.670931599070968,28.029158389833942</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#npl_hltfac_DoH_WHO_wgs84_3districts">
+		<SimpleData name="hf_type">Sub Health Post</SimpleData>
+		<SimpleData name="dist_name">Gorkha</SimpleData>
+		<SimpleData name="vdc_name1">Asrang</SimpleData>
+		<SimpleData name="vdc_code1">W-GAN-36-005</SimpleData>
+		<SimpleData name="latitude">28.007548231645533</SimpleData>
+		<SimpleData name="longitude">84.71799150049574</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>84.717991500495742,28.007548231645533</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#npl_hltfac_DoH_WHO_wgs84_3districts">
+		<SimpleData name="hf_type">Sub Health Post</SimpleData>
+		<SimpleData name="dist_name">Gorkha</SimpleData>
+		<SimpleData name="vdc_name1">Borlang</SimpleData>
+		<SimpleData name="vdc_code1">W-GAN-36-011</SimpleData>
+		<SimpleData name="latitude">27.990962006314483</SimpleData>
+		<SimpleData name="longitude">84.7571646677561</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>84.757164667756101,27.990962006314483</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#npl_hltfac_DoH_WHO_wgs84_3districts">
+		<SimpleData name="hf_type">Sub Health Post</SimpleData>
+		<SimpleData name="dist_name">Gorkha</SimpleData>
+		<SimpleData name="vdc_name1">Namjung</SimpleData>
+		<SimpleData name="vdc_code1">W-GAN-36-045</SimpleData>
+		<SimpleData name="latitude">27.938616019257925</SimpleData>
+		<SimpleData name="longitude">84.71750208390785</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>84.717502083907846,27.938616019257925</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#npl_hltfac_DoH_WHO_wgs84_3districts">
+		<SimpleData name="hf_type">Sub Health Post</SimpleData>
+		<SimpleData name="dist_name">Gorkha</SimpleData>
+		<SimpleData name="vdc_name1">Fujel</SimpleData>
+		<SimpleData name="vdc_code1">W-GAN-36-022</SimpleData>
+		<SimpleData name="latitude">27.90767498226692</SimpleData>
+		<SimpleData name="longitude">84.72203152749859</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>84.722031527498586,27.907674982266919</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#npl_hltfac_DoH_WHO_wgs84_3districts">
+		<SimpleData name="hf_type">Sub Health Post</SimpleData>
+		<SimpleData name="dist_name">Gorkha</SimpleData>
+		<SimpleData name="vdc_name1">Darbhung</SimpleData>
+		<SimpleData name="vdc_code1">W-GAN-36-017</SimpleData>
+		<SimpleData name="latitude">27.854626917781985</SimpleData>
+		<SimpleData name="longitude">84.74446792179059</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>84.744467921790587,27.854626917781985</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#npl_hltfac_DoH_WHO_wgs84_3districts">
+		<SimpleData name="hf_type">Sub Health Post</SimpleData>
+		<SimpleData name="dist_name">Gorkha</SimpleData>
+		<SimpleData name="vdc_name1">Ghyalchok</SimpleData>
+		<SimpleData name="vdc_code1">W-GAN-36-027</SimpleData>
+		<SimpleData name="latitude">27.82199300184702</SimpleData>
+		<SimpleData name="longitude">84.75095754390072</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>84.750957543900725,27.821993001847019</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#npl_hltfac_DoH_WHO_wgs84_3districts">
+		<SimpleData name="hf_type">Sub Health Post</SimpleData>
+		<SimpleData name="dist_name">Gorkha</SimpleData>
+		<SimpleData name="vdc_name1">Bhumlichok</SimpleData>
+		<SimpleData name="vdc_code1">W-GAN-36-009</SimpleData>
+		<SimpleData name="latitude">27.853987488553148</SimpleData>
+		<SimpleData name="longitude">84.70570676593141</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>84.70570676593141,27.853987488553148</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#npl_hltfac_DoH_WHO_wgs84_3districts">
+		<SimpleData name="hf_type">Sub Health Post</SimpleData>
+		<SimpleData name="dist_name">Gorkha</SimpleData>
+		<SimpleData name="vdc_name1">Tanglichok</SimpleData>
+		<SimpleData name="vdc_code1">W-GAN-36-062</SimpleData>
+		<SimpleData name="latitude">27.907736247365452</SimpleData>
+		<SimpleData name="longitude">84.68618450196355</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>84.686184501963552,27.907736247365452</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#npl_hltfac_DoH_WHO_wgs84_3districts">
+		<SimpleData name="hf_type">Sub Health Post</SimpleData>
+		<SimpleData name="dist_name">Gorkha</SimpleData>
+		<SimpleData name="vdc_name1">Ghairung</SimpleData>
+		<SimpleData name="vdc_code1">W-GAN-36-025</SimpleData>
+		<SimpleData name="latitude">27.934292676440474</SimpleData>
+		<SimpleData name="longitude">84.66520950330475</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>84.665209503304752,27.934292676440474</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#npl_hltfac_DoH_WHO_wgs84_3districts">
+		<SimpleData name="hf_type">Sub Health Post</SimpleData>
+		<SimpleData name="dist_name">Gorkha</SimpleData>
+		<SimpleData name="vdc_name1">Taklung</SimpleData>
+		<SimpleData name="vdc_code1">W-GAN-36-058</SimpleData>
+		<SimpleData name="latitude">27.909482200647584</SimpleData>
+		<SimpleData name="longitude">84.62501010300699</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>84.625010103006986,27.909482200647584</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#npl_hltfac_DoH_WHO_wgs84_3districts">
+		<SimpleData name="hf_type">Sub Health Post</SimpleData>
+		<SimpleData name="dist_name">Gorkha</SimpleData>
+		<SimpleData name="vdc_name1">Bakrang</SimpleData>
+		<SimpleData name="vdc_code1">W-GAN-36-007</SimpleData>
+		<SimpleData name="latitude">27.936906453833384</SimpleData>
+		<SimpleData name="longitude">84.6166498797127</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>84.616649879712696,27.936906453833384</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#npl_hltfac_DoH_WHO_wgs84_3districts">
+		<SimpleData name="hf_type">Sub Health Post</SimpleData>
+		<SimpleData name="dist_name">Gorkha</SimpleData>
+		<SimpleData name="vdc_name1">Manakamana</SimpleData>
+		<SimpleData name="vdc_code1">W-GAN-36-041</SimpleData>
+		<SimpleData name="latitude">27.89850782151162</SimpleData>
+		<SimpleData name="longitude">84.58840084296162</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>84.588400842961619,27.898507821511618</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#npl_hltfac_DoH_WHO_wgs84_3districts">
+		<SimpleData name="hf_type">Sub Health Post</SimpleData>
+		<SimpleData name="dist_name">Gorkha</SimpleData>
+		<SimpleData name="vdc_name1">Deurali</SimpleData>
+		<SimpleData name="vdc_code1">W-GAN-36-018</SimpleData>
+		<SimpleData name="latitude">27.947942099354808</SimpleData>
+		<SimpleData name="longitude">84.51663555526359</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>84.516635555263591,27.947942099354808</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#npl_hltfac_DoH_WHO_wgs84_3districts">
+		<SimpleData name="hf_type">Sub Health Post</SimpleData>
+		<SimpleData name="dist_name">Gorkha</SimpleData>
+		<SimpleData name="vdc_name1">Bhirkot</SimpleData>
+		<SimpleData name="vdc_code1">W-GAN-36-008</SimpleData>
+		<SimpleData name="latitude">28.002465923929893</SimpleData>
+		<SimpleData name="longitude">84.52396900792576</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>84.523969007925757,28.002465923929893</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#npl_hltfac_DoH_WHO_wgs84_3districts">
+		<SimpleData name="hf_type">Sub Health Post</SimpleData>
+		<SimpleData name="dist_name">Gorkha</SimpleData>
+		<SimpleData name="vdc_name1">Chyngli</SimpleData>
+		<SimpleData name="vdc_code1">W-GAN-36-016</SimpleData>
+		<SimpleData name="latitude">27.991398523445866</SimpleData>
+		<SimpleData name="longitude">84.48471696580222</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>84.484716965802221,27.991398523445866</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#npl_hltfac_DoH_WHO_wgs84_3districts">
+		<SimpleData name="hf_type">Sub Health Post</SimpleData>
+		<SimpleData name="dist_name">Gorkha</SimpleData>
+		<SimpleData name="vdc_name1">Gaikhur</SimpleData>
+		<SimpleData name="vdc_code1">W-GAN-36-023</SimpleData>
+		<SimpleData name="latitude">28.026135395871318</SimpleData>
+		<SimpleData name="longitude">84.47962647021987</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>84.47962647021987,28.026135395871318</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#npl_hltfac_DoH_WHO_wgs84_3districts">
+		<SimpleData name="hf_type">Sub Health Post</SimpleData>
+		<SimpleData name="dist_name">Gorkha</SimpleData>
+		<SimpleData name="vdc_name1">Khoplang</SimpleData>
+		<SimpleData name="vdc_code1">W-GAN-36-036</SimpleData>
+		<SimpleData name="latitude">28.03532842090265</SimpleData>
+		<SimpleData name="longitude">84.53098391843017</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>84.530983918430167,28.035328420902651</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#npl_hltfac_DoH_WHO_wgs84_3districts">
+		<SimpleData name="hf_type">Sub Health Post</SimpleData>
+		<SimpleData name="dist_name">Gorkha</SimpleData>
+		<SimpleData name="vdc_name1">Finam</SimpleData>
+		<SimpleData name="vdc_code1">W-GAN-36-021</SimpleData>
+		<SimpleData name="latitude">28.009914482990737</SimpleData>
+		<SimpleData name="longitude">84.6538727214098</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>84.653872721409797,28.009914482990737</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#npl_hltfac_DoH_WHO_wgs84_3districts">
+		<SimpleData name="hf_type">Sub Health Post</SimpleData>
+		<SimpleData name="dist_name">Gorkha</SimpleData>
+		<SimpleData name="vdc_name1">Laprak</SimpleData>
+		<SimpleData name="vdc_code1">W-GAN-36-037</SimpleData>
+		<SimpleData name="latitude">28.335685239664777</SimpleData>
+		<SimpleData name="longitude">84.76359480374377</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>84.763594803743771,28.335685239664777</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#npl_hltfac_DoH_WHO_wgs84_3districts">
+		<SimpleData name="hf_type">Sub Center</SimpleData>
+		<SimpleData name="dist_name">Gorkha</SimpleData>
+		<SimpleData name="vdc_name1">Sirdibas</SimpleData>
+		<SimpleData name="vdc_code1">W-GAN-36-056</SimpleData>
+		<SimpleData name="latitude">28.392794884309865</SimpleData>
+		<SimpleData name="longitude">84.88710281780462</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>84.887102817804617,28.392794884309865</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#npl_hltfac_DoH_WHO_wgs84_3districts">
+		<SimpleData name="hf_type">Sub Center</SimpleData>
+		<SimpleData name="dist_name">Gorkha</SimpleData>
+		<SimpleData name="vdc_name1">Manbu</SimpleData>
+		<SimpleData name="vdc_code1">W-GAN-36-042</SimpleData>
+		<SimpleData name="latitude">28.120679332579275</SimpleData>
+		<SimpleData name="longitude">84.89635103632074</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>84.896351036320738,28.120679332579275</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#npl_hltfac_DoH_WHO_wgs84_3districts">
+		<SimpleData name="hf_type">Sub Center</SimpleData>
+		<SimpleData name="dist_name">Gorkha</SimpleData>
+		<SimpleData name="vdc_name1">Palumtar</SimpleData>
+		<SimpleData name="vdc_code1">W-GAN-36-047</SimpleData>
+		<SimpleData name="latitude">28.032322805472624</SimpleData>
+		<SimpleData name="longitude">84.50333186312088</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>84.503331863120877,28.032322805472624</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#npl_hltfac_DoH_WHO_wgs84_3districts">
+		<SimpleData name="hf_type">Sub Center</SimpleData>
+		<SimpleData name="dist_name">Gorkha</SimpleData>
+		<SimpleData name="vdc_name1">Jaubari</SimpleData>
+		<SimpleData name="vdc_code1">W-GAN-36-031</SimpleData>
+		<SimpleData name="latitude">28.108716153641964</SimpleData>
+		<SimpleData name="longitude">84.60970794668114</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>84.609707946681141,28.108716153641964</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#npl_hltfac_DoH_WHO_wgs84_3districts">
+		<SimpleData name="hf_type">Sub Center</SimpleData>
+		<SimpleData name="dist_name">Gorkha</SimpleData>
+		<SimpleData name="vdc_name1">Makaising</SimpleData>
+		<SimpleData name="vdc_code1">W-GAN-36-040</SimpleData>
+		<SimpleData name="latitude">27.86664047676868</SimpleData>
+		<SimpleData name="longitude">84.64492539035417</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>84.644925390354175,27.86664047676868</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#npl_hltfac_DoH_WHO_wgs84_3districts">
+		<SimpleData name="hf_type">Sub Center</SimpleData>
+		<SimpleData name="dist_name">Gorkha</SimpleData>
+		<SimpleData name="vdc_name1">Aarupokhari</SimpleData>
+		<SimpleData name="vdc_code1">W-GAN-36-004</SimpleData>
+		<SimpleData name="latitude">28.058299445365616</SimpleData>
+		<SimpleData name="longitude">84.76964721005545</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>84.769647210055453,28.058299445365616</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#npl_hltfac_DoH_WHO_wgs84_3districts">
+		<SimpleData name="hf_type">Supply Center</SimpleData>
+		<SimpleData name="dist_name">Gorkha</SimpleData>
+		<SimpleData name="vdc_name1">Gumda</SimpleData>
+		<SimpleData name="vdc_code1">W-GAN-36-028</SimpleData>
+		<SimpleData name="latitude">28.19993946065416</SimpleData>
+		<SimpleData name="longitude">84.81583853674594</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>84.815838536745943,28.199939460654161</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#npl_hltfac_DoH_WHO_wgs84_3districts">
+		<SimpleData name="hf_type">Supply Center</SimpleData>
+		<SimpleData name="dist_name">Gorkha</SimpleData>
+		<SimpleData name="vdc_name1">Hansapur</SimpleData>
+		<SimpleData name="vdc_code1">W-GAN-36-029</SimpleData>
+		<SimpleData name="latitude">28.17686965167948</SimpleData>
+		<SimpleData name="longitude">84.62650697747954</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>84.626506977479536,28.176869651679478</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#npl_hltfac_DoH_WHO_wgs84_3districts">
+		<SimpleData name="hf_type">Supply Center</SimpleData>
+		<SimpleData name="dist_name">Gorkha</SimpleData>
+		<SimpleData name="vdc_name1">Takumajhalakuribot</SimpleData>
+		<SimpleData name="vdc_code1">W-GAN-36-060</SimpleData>
+		<SimpleData name="latitude">28.113561094375797</SimpleData>
+		<SimpleData name="longitude">84.67698783030141</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>84.676987830301414,28.113561094375797</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#npl_hltfac_DoH_WHO_wgs84_3districts">
+		<SimpleData name="hf_type">Supply Center</SimpleData>
+		<SimpleData name="dist_name">Gorkha</SimpleData>
+		<SimpleData name="vdc_name1">Masel</SimpleData>
+		<SimpleData name="vdc_code1">W-GAN-36-043</SimpleData>
+		<SimpleData name="latitude">28.0427731735213</SimpleData>
+		<SimpleData name="longitude">84.72257621272318</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>84.722576212723183,28.042773173521301</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#npl_hltfac_DoH_WHO_wgs84_3districts">
+		<SimpleData name="hf_type">Supply Center</SimpleData>
+		<SimpleData name="dist_name">Gorkha</SimpleData>
+		<SimpleData name="vdc_name1">Bunkot</SimpleData>
+		<SimpleData name="vdc_code1">W-GAN-36-012</SimpleData>
+		<SimpleData name="latitude">27.975290416446423</SimpleData>
+		<SimpleData name="longitude">84.65752442668148</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>84.657524426681476,27.975290416446423</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#npl_hltfac_DoH_WHO_wgs84_3districts">
+		<SimpleData name="hf_type">Supply Center</SimpleData>
+		<SimpleData name="dist_name">Gorkha</SimpleData>
+		<SimpleData name="vdc_name1">Dhuwakot</SimpleData>
+		<SimpleData name="vdc_code1">W-GAN-36-020</SimpleData>
+		<SimpleData name="latitude">27.949892247428284</SimpleData>
+		<SimpleData name="longitude">84.47283700184609</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>84.472837001846088,27.949892247428284</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#npl_hltfac_DoH_WHO_wgs84_3districts">
+		<SimpleData name="hf_type">District Cold Room</SimpleData>
+		<SimpleData name="dist_name">Gorkha</SimpleData>
+		<SimpleData name="vdc_name1">PrithbinarayanN.P.</SimpleData>
+		<SimpleData name="vdc_code1">W-GAN-36-050</SimpleData>
+		<SimpleData name="latitude">28.00851960350471</SimpleData>
+		<SimpleData name="longitude">84.62375530324317</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>84.623755303243172,28.008519603504709</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#npl_hltfac_DoH_WHO_wgs84_3districts">
+		<SimpleData name="hf_type">District Cold Room</SimpleData>
+		<SimpleData name="dist_name">Sindhupalchok</SimpleData>
+		<SimpleData name="vdc_name1">Choutara</SimpleData>
+		<SimpleData name="vdc_code1">C-BAG-23-014</SimpleData>
+		<SimpleData name="latitude">27.766627672653883</SimpleData>
+		<SimpleData name="longitude">85.71874557526377</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>85.718745575263767,27.766627672653883</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#npl_hltfac_DoH_WHO_wgs84_3districts">
+		<SimpleData name="hf_type">Sub Center</SimpleData>
+		<SimpleData name="dist_name">Sindhupalchok</SimpleData>
+		<SimpleData name="vdc_name1">Melamchi</SimpleData>
+		<SimpleData name="vdc_code1">C-BAG-23-048</SimpleData>
+		<SimpleData name="latitude">27.837513526444187</SimpleData>
+		<SimpleData name="longitude">85.55590896903341</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>85.55590896903341,27.837513526444187</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#npl_hltfac_DoH_WHO_wgs84_3districts">
+		<SimpleData name="hf_type">Sub Center</SimpleData>
+		<SimpleData name="dist_name">Sindhupalchok</SimpleData>
+		<SimpleData name="vdc_name1">Bahrabise</SimpleData>
+		<SimpleData name="vdc_code1">C-BAG-23-006</SimpleData>
+		<SimpleData name="latitude">27.807309245657724</SimpleData>
+		<SimpleData name="longitude">85.91961442671443</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>85.919614426714432,27.807309245657724</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#npl_hltfac_DoH_WHO_wgs84_3districts">
+		<SimpleData name="hf_type">DPHO</SimpleData>
+		<SimpleData name="dist_name">Sindhupalchok</SimpleData>
+		<SimpleData name="vdc_name1">Choutara</SimpleData>
+		<SimpleData name="vdc_code1">C-BAG-23-014</SimpleData>
+		<SimpleData name="latitude">27.773158037965825</SimpleData>
+		<SimpleData name="longitude">85.70850194929531</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>85.708501949295311,27.773158037965825</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#npl_hltfac_DoH_WHO_wgs84_3districts">
+		<SimpleData name="hf_type">Hospital</SimpleData>
+		<SimpleData name="dist_name">Sindhupalchok</SimpleData>
+		<SimpleData name="vdc_name1">Choutara</SimpleData>
+		<SimpleData name="vdc_code1">C-BAG-23-014</SimpleData>
+		<SimpleData name="latitude">27.77971455375797</SimpleData>
+		<SimpleData name="longitude">85.72438618036784</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>85.724386180367844,27.779714553757969</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#npl_hltfac_DoH_WHO_wgs84_3districts">
+		<SimpleData name="hf_type">Primary Health Center</SimpleData>
+		<SimpleData name="dist_name">Sindhupalchok</SimpleData>
+		<SimpleData name="vdc_name1">Melamchi</SimpleData>
+		<SimpleData name="vdc_code1">C-BAG-23-048</SimpleData>
+		<SimpleData name="latitude">27.837599407633718</SimpleData>
+		<SimpleData name="longitude">85.56752611492519</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>85.567526114925187,27.837599407633718</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#npl_hltfac_DoH_WHO_wgs84_3districts">
+		<SimpleData name="hf_type">Primary Health Center</SimpleData>
+		<SimpleData name="dist_name">Sindhupalchok</SimpleData>
+		<SimpleData name="vdc_name1">Bahrabise</SimpleData>
+		<SimpleData name="vdc_code1">C-BAG-23-006</SimpleData>
+		<SimpleData name="latitude">27.803123676546704</SimpleData>
+		<SimpleData name="longitude">85.90972514211586</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>85.90972514211586,27.803123676546704</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#npl_hltfac_DoH_WHO_wgs84_3districts">
+		<SimpleData name="hf_type">Health Post</SimpleData>
+		<SimpleData name="dist_name">Sindhupalchok</SimpleData>
+		<SimpleData name="vdc_name1">Tatopani</SimpleData>
+		<SimpleData name="vdc_code1">C-BAG-23-068</SimpleData>
+		<SimpleData name="latitude">27.95511763845163</SimpleData>
+		<SimpleData name="longitude">85.92016797904076</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>85.920167979040755,27.955117638451629</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#npl_hltfac_DoH_WHO_wgs84_3districts">
+		<SimpleData name="hf_type">Health Post</SimpleData>
+		<SimpleData name="dist_name">Sindhupalchok</SimpleData>
+		<SimpleData name="vdc_name1">Piskar</SimpleData>
+		<SimpleData name="vdc_code1">C-BAG-23-056</SimpleData>
+		<SimpleData name="latitude">27.744316777336554</SimpleData>
+		<SimpleData name="longitude">85.91542731335295</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>85.91542731335295,27.744316777336554</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#npl_hltfac_DoH_WHO_wgs84_3districts">
+		<SimpleData name="hf_type">Health Post</SimpleData>
+		<SimpleData name="dist_name">Sindhupalchok</SimpleData>
+		<SimpleData name="vdc_name1">ThuloPakhar</SimpleData>
+		<SimpleData name="vdc_code1">C-BAG-23-076</SimpleData>
+		<SimpleData name="latitude">27.71714923271032</SimpleData>
+		<SimpleData name="longitude">85.86041203594719</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>85.860412035947192,27.717149232710319</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#npl_hltfac_DoH_WHO_wgs84_3districts">
+		<SimpleData name="hf_type">Health Post</SimpleData>
+		<SimpleData name="dist_name">Sindhupalchok</SimpleData>
+		<SimpleData name="vdc_name1">Lisankhu</SimpleData>
+		<SimpleData name="vdc_code1">C-BAG-23-042</SimpleData>
+		<SimpleData name="latitude">27.67137151487586</SimpleData>
+		<SimpleData name="longitude">85.8335981614159</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>85.833598161415907,27.671371514875862</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#npl_hltfac_DoH_WHO_wgs84_3districts">
+		<SimpleData name="hf_type">Health Post</SimpleData>
+		<SimpleData name="dist_name">Sindhupalchok</SimpleData>
+		<SimpleData name="vdc_name1">Sunkhani</SimpleData>
+		<SimpleData name="vdc_code1">C-BAG-23-065</SimpleData>
+		<SimpleData name="latitude">27.71076176924222</SimpleData>
+		<SimpleData name="longitude">85.82294230768483</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>85.822942307684826,27.710761769242222</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#npl_hltfac_DoH_WHO_wgs84_3districts">
+		<SimpleData name="hf_type">Health Post</SimpleData>
+		<SimpleData name="dist_name">Sindhupalchok</SimpleData>
+		<SimpleData name="vdc_name1">Jalbire</SimpleData>
+		<SimpleData name="vdc_code1">C-BAG-23-032</SimpleData>
+		<SimpleData name="latitude">27.83250270549803</SimpleData>
+		<SimpleData name="longitude">85.7833703995053</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>85.783370399505301,27.83250270549803</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#npl_hltfac_DoH_WHO_wgs84_3districts">
+		<SimpleData name="hf_type">Health Post</SimpleData>
+		<SimpleData name="dist_name">Sindhupalchok</SimpleData>
+		<SimpleData name="vdc_name1">Selang</SimpleData>
+		<SimpleData name="vdc_code1">C-BAG-23-060</SimpleData>
+		<SimpleData name="latitude">27.855305917195327</SimpleData>
+		<SimpleData name="longitude">85.75236434837076</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>85.752364348370762,27.855305917195327</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#npl_hltfac_DoH_WHO_wgs84_3districts">
+		<SimpleData name="hf_type">Health Post</SimpleData>
+		<SimpleData name="dist_name">Sindhupalchok</SimpleData>
+		<SimpleData name="vdc_name1">Bhimtar</SimpleData>
+		<SimpleData name="vdc_code1">C-BAG-23-009</SimpleData>
+		<SimpleData name="latitude">27.745893489889482</SimpleData>
+		<SimpleData name="longitude">85.61571399272034</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>85.615713992720345,27.745893489889482</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#npl_hltfac_DoH_WHO_wgs84_3districts">
+		<SimpleData name="hf_type">Health Post</SimpleData>
+		<SimpleData name="dist_name">Sindhupalchok</SimpleData>
+		<SimpleData name="vdc_name1">Nawalpur</SimpleData>
+		<SimpleData name="vdc_code1">C-BAG-23-050</SimpleData>
+		<SimpleData name="latitude">27.82250604831439</SimpleData>
+		<SimpleData name="longitude">85.62430728279513</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>85.624307282795129,27.822506048314391</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#npl_hltfac_DoH_WHO_wgs84_3districts">
+		<SimpleData name="hf_type">Health Post</SimpleData>
+		<SimpleData name="dist_name">Sindhupalchok</SimpleData>
+		<SimpleData name="vdc_name1">Banskharka</SimpleData>
+		<SimpleData name="vdc_code1">C-BAG-23-004</SimpleData>
+		<SimpleData name="latitude">27.91823456777482</SimpleData>
+		<SimpleData name="longitude">85.60121777510314</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>85.601217775103137,27.918234567774821</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#npl_hltfac_DoH_WHO_wgs84_3districts">
+		<SimpleData name="hf_type">Health Post</SimpleData>
+		<SimpleData name="dist_name">Sindhupalchok</SimpleData>
+		<SimpleData name="vdc_name1">Sindhukot</SimpleData>
+		<SimpleData name="vdc_code1">C-BAG-23-062</SimpleData>
+		<SimpleData name="latitude">27.833079613426072</SimpleData>
+		<SimpleData name="longitude">85.53057571703026</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>85.53057571703026,27.833079613426072</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#npl_hltfac_DoH_WHO_wgs84_3districts">
+		<SimpleData name="hf_type">Sub Health Post</SimpleData>
+		<SimpleData name="dist_name">Sindhupalchok</SimpleData>
+		<SimpleData name="vdc_name1">Ichok</SimpleData>
+		<SimpleData name="vdc_code1">C-BAG-23-030</SimpleData>
+		<SimpleData name="latitude">27.955297764965916</SimpleData>
+		<SimpleData name="longitude">85.49406500556138</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>85.494065005561382,27.955297764965916</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#npl_hltfac_DoH_WHO_wgs84_3districts">
+		<SimpleData name="hf_type">Sub Health Post</SimpleData>
+		<SimpleData name="dist_name">Sindhupalchok</SimpleData>
+		<SimpleData name="vdc_name1">Mahankal</SimpleData>
+		<SimpleData name="vdc_code1">C-BAG-23-044</SimpleData>
+		<SimpleData name="latitude">27.89431147145875</SimpleData>
+		<SimpleData name="longitude">85.51027641839336</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>85.51027641839336,27.894311471458749</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#npl_hltfac_DoH_WHO_wgs84_3districts">
+		<SimpleData name="hf_type">Sub Health Post</SimpleData>
+		<SimpleData name="dist_name">Sindhupalchok</SimpleData>
+		<SimpleData name="vdc_name1">Thakani</SimpleData>
+		<SimpleData name="vdc_code1">C-BAG-23-071</SimpleData>
+		<SimpleData name="latitude">27.841680081643002</SimpleData>
+		<SimpleData name="longitude">85.49133682448927</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>85.491336824489267,27.841680081643002</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#npl_hltfac_DoH_WHO_wgs84_3districts">
+		<SimpleData name="hf_type">Sub Health Post</SimpleData>
+		<SimpleData name="dist_name">Sindhupalchok</SimpleData>
+		<SimpleData name="vdc_name1">Haibung</SimpleData>
+		<SimpleData name="vdc_code1">C-BAG-23-028</SimpleData>
+		<SimpleData name="latitude">27.82880317813524</SimpleData>
+		<SimpleData name="longitude">85.46264385750455</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>85.462643857504546,27.828803178135239</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#npl_hltfac_DoH_WHO_wgs84_3districts">
+		<SimpleData name="hf_type">Sub Health Post</SimpleData>
+		<SimpleData name="dist_name">Sindhupalchok</SimpleData>
+		<SimpleData name="vdc_name1">Bhotechaur</SimpleData>
+		<SimpleData name="vdc_code1">C-BAG-23-012</SimpleData>
+		<SimpleData name="latitude">27.80626917179832</SimpleData>
+		<SimpleData name="longitude">85.49919623031599</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>85.499196230315988,27.80626917179832</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#npl_hltfac_DoH_WHO_wgs84_3districts">
+		<SimpleData name="hf_type">Sub Health Post</SimpleData>
+		<SimpleData name="dist_name">Sindhupalchok</SimpleData>
+		<SimpleData name="vdc_name1">Bansbari</SimpleData>
+		<SimpleData name="vdc_code1">C-BAG-23-003</SimpleData>
+		<SimpleData name="latitude">27.811779462466664</SimpleData>
+		<SimpleData name="longitude">85.55501182674591</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>85.555011826745911,27.811779462466664</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#npl_hltfac_DoH_WHO_wgs84_3districts">
+		<SimpleData name="hf_type">Sub Health Post</SimpleData>
+		<SimpleData name="dist_name">Sindhupalchok</SimpleData>
+		<SimpleData name="vdc_name1">Talramarang</SimpleData>
+		<SimpleData name="vdc_code1">C-BAG-23-067</SimpleData>
+		<SimpleData name="latitude">27.862333431011546</SimpleData>
+		<SimpleData name="longitude">85.5328350636599</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>85.532835063659903,27.862333431011546</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#npl_hltfac_DoH_WHO_wgs84_3districts">
+		<SimpleData name="hf_type">Sub Health Post</SimpleData>
+		<SimpleData name="dist_name">Sindhupalchok</SimpleData>
+		<SimpleData name="vdc_name1">Palchok</SimpleData>
+		<SimpleData name="vdc_code1">C-BAG-23-052</SimpleData>
+		<SimpleData name="latitude">27.896015902720137</SimpleData>
+		<SimpleData name="longitude">85.56803185223323</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>85.568031852233233,27.896015902720137</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#npl_hltfac_DoH_WHO_wgs84_3districts">
+		<SimpleData name="hf_type">Sub Health Post</SimpleData>
+		<SimpleData name="dist_name">Sindhupalchok</SimpleData>
+		<SimpleData name="vdc_name1">Dubachour</SimpleData>
+		<SimpleData name="vdc_code1">C-BAG-23-016</SimpleData>
+		<SimpleData name="latitude">27.88308247100102</SimpleData>
+		<SimpleData name="longitude">85.58479626269757</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>85.584796262697566,27.883082471001021</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#npl_hltfac_DoH_WHO_wgs84_3districts">
+		<SimpleData name="hf_type">Sub Health Post</SimpleData>
+		<SimpleData name="dist_name">Sindhupalchok</SimpleData>
+		<SimpleData name="vdc_name1">Sikharpur</SimpleData>
+		<SimpleData name="vdc_code1">C-BAG-23-061</SimpleData>
+		<SimpleData name="latitude">27.821367488935778</SimpleData>
+		<SimpleData name="longitude">85.58436894108529</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>85.584368941085287,27.821367488935778</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#npl_hltfac_DoH_WHO_wgs84_3districts">
+		<SimpleData name="hf_type">Sub Health Post</SimpleData>
+		<SimpleData name="dist_name">Sindhupalchok</SimpleData>
+		<SimpleData name="vdc_name1">Jyamire</SimpleData>
+		<SimpleData name="vdc_code1">C-BAG-23-034</SimpleData>
+		<SimpleData name="latitude">27.860864121613208</SimpleData>
+		<SimpleData name="longitude">85.60167588755125</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>85.601675887551252,27.860864121613208</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#npl_hltfac_DoH_WHO_wgs84_3districts">
+		<SimpleData name="hf_type">Sub Health Post</SimpleData>
+		<SimpleData name="dist_name">Sindhupalchok</SimpleData>
+		<SimpleData name="vdc_name1">Fatakshila</SimpleData>
+		<SimpleData name="vdc_code1">C-BAG-23-017</SimpleData>
+		<SimpleData name="latitude">27.772586243072652</SimpleData>
+		<SimpleData name="longitude">85.56719561429216</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>85.56719561429216,27.772586243072652</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#npl_hltfac_DoH_WHO_wgs84_3districts">
+		<SimpleData name="hf_type">Sub Health Post</SimpleData>
+		<SimpleData name="dist_name">Sindhupalchok</SimpleData>
+		<SimpleData name="vdc_name1">Badegau</SimpleData>
+		<SimpleData name="vdc_code1">C-BAG-23-002</SimpleData>
+		<SimpleData name="latitude">27.791447935276242</SimpleData>
+		<SimpleData name="longitude">85.59581032391836</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>85.595810323918357,27.791447935276242</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#npl_hltfac_DoH_WHO_wgs84_3districts">
+		<SimpleData name="hf_type">Sub Health Post</SimpleData>
+		<SimpleData name="dist_name">Sindhupalchok</SimpleData>
+		<SimpleData name="vdc_name1">SipaPokhare</SimpleData>
+		<SimpleData name="vdc_code1">C-BAG-23-063</SimpleData>
+		<SimpleData name="latitude">27.76891951500518</SimpleData>
+		<SimpleData name="longitude">85.63662124535048</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>85.636621245350483,27.76891951500518</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#npl_hltfac_DoH_WHO_wgs84_3districts">
+		<SimpleData name="hf_type">Sub Health Post</SimpleData>
+		<SimpleData name="dist_name">Sindhupalchok</SimpleData>
+		<SimpleData name="vdc_name1">Kunchok</SimpleData>
+		<SimpleData name="vdc_code1">C-BAG-23-040</SimpleData>
+		<SimpleData name="latitude">27.7980530911243</SimpleData>
+		<SimpleData name="longitude">85.65590999717506</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>85.655909997175058,27.798053091124299</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#npl_hltfac_DoH_WHO_wgs84_3districts">
+		<SimpleData name="hf_type">Sub Health Post</SimpleData>
+		<SimpleData name="dist_name">Sindhupalchok</SimpleData>
+		<SimpleData name="vdc_name1">Bhotasipa</SimpleData>
+		<SimpleData name="vdc_code1">C-BAG-23-010</SimpleData>
+		<SimpleData name="latitude">27.753816163608874</SimpleData>
+		<SimpleData name="longitude">85.65583981211871</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>85.655839812118714,27.753816163608874</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#npl_hltfac_DoH_WHO_wgs84_3districts">
+		<SimpleData name="hf_type">Sub Health Post</SimpleData>
+		<SimpleData name="dist_name">Sindhupalchok</SimpleData>
+		<SimpleData name="vdc_name1">Pipaldada</SimpleData>
+		<SimpleData name="vdc_code1">C-BAG-23-055</SimpleData>
+		<SimpleData name="latitude">27.791261234766193</SimpleData>
+		<SimpleData name="longitude">85.68792658474364</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>85.687926584743636,27.791261234766193</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#npl_hltfac_DoH_WHO_wgs84_3districts">
+		<SimpleData name="hf_type">Sub Health Post</SimpleData>
+		<SimpleData name="dist_name">Sindhupalchok</SimpleData>
+		<SimpleData name="vdc_name1">Sanusiruwari</SimpleData>
+		<SimpleData name="vdc_code1">C-BAG-23-059</SimpleData>
+		<SimpleData name="latitude">27.750627803308888</SimpleData>
+		<SimpleData name="longitude">85.72279089672514</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>85.722790896725144,27.750627803308888</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#npl_hltfac_DoH_WHO_wgs84_3districts">
+		<SimpleData name="hf_type">Sub Health Post</SimpleData>
+		<SimpleData name="dist_name">Sindhupalchok</SimpleData>
+		<SimpleData name="vdc_name1">ThuloSirubari</SimpleData>
+		<SimpleData name="vdc_code1">C-BAG-23-077</SimpleData>
+		<SimpleData name="latitude">27.738391036301753</SimpleData>
+		<SimpleData name="longitude">85.69899523302864</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>85.69899523302864,27.738391036301753</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#npl_hltfac_DoH_WHO_wgs84_3districts">
+		<SimpleData name="hf_type">Sub Health Post</SimpleData>
+		<SimpleData name="dist_name">Sindhupalchok</SimpleData>
+		<SimpleData name="vdc_name1">Sangachok</SimpleData>
+		<SimpleData name="vdc_code1">C-BAG-23-058</SimpleData>
+		<SimpleData name="latitude">27.700461762658023</SimpleData>
+		<SimpleData name="longitude">85.73135224489889</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>85.731352244898886,27.700461762658023</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#npl_hltfac_DoH_WHO_wgs84_3districts">
+		<SimpleData name="hf_type">Sub Health Post</SimpleData>
+		<SimpleData name="dist_name">Sindhupalchok</SimpleData>
+		<SimpleData name="vdc_name1">Irkhu</SimpleData>
+		<SimpleData name="vdc_code1">C-BAG-23-031</SimpleData>
+		<SimpleData name="latitude">27.761155407883976</SimpleData>
+		<SimpleData name="longitude">85.73924428528049</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>85.739244285280492,27.761155407883976</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#npl_hltfac_DoH_WHO_wgs84_3districts">
+		<SimpleData name="hf_type">Sub Health Post</SimpleData>
+		<SimpleData name="dist_name">Sindhupalchok</SimpleData>
+		<SimpleData name="vdc_name1">Kadambas</SimpleData>
+		<SimpleData name="vdc_code1">C-BAG-23-035</SimpleData>
+		<SimpleData name="latitude">27.74004681556099</SimpleData>
+		<SimpleData name="longitude">85.76035727058422</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>85.760357270584223,27.740046815560991</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#npl_hltfac_DoH_WHO_wgs84_3districts">
+		<SimpleData name="hf_type">Sub Health Post</SimpleData>
+		<SimpleData name="dist_name">Sindhupalchok</SimpleData>
+		<SimpleData name="vdc_name1">Kalika</SimpleData>
+		<SimpleData name="vdc_code1">C-BAG-23-036</SimpleData>
+		<SimpleData name="latitude">27.709050857743723</SimpleData>
+		<SimpleData name="longitude">85.77543543682715</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>85.775435436827152,27.709050857743723</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#npl_hltfac_DoH_WHO_wgs84_3districts">
+		<SimpleData name="hf_type">Sub Health Post</SimpleData>
+		<SimpleData name="dist_name">Sindhupalchok</SimpleData>
+		<SimpleData name="vdc_name1">Thokarpa</SimpleData>
+		<SimpleData name="vdc_code1">C-BAG-23-074</SimpleData>
+		<SimpleData name="latitude">27.68955298816073</SimpleData>
+		<SimpleData name="longitude">85.79405932363223</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>85.794059323632226,27.689552988160731</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#npl_hltfac_DoH_WHO_wgs84_3districts">
+		<SimpleData name="hf_type">Sub Health Post</SimpleData>
+		<SimpleData name="dist_name">Sindhupalchok</SimpleData>
+		<SimpleData name="vdc_name1">Yamunadanda</SimpleData>
+		<SimpleData name="vdc_code1">C-BAG-23-079</SimpleData>
+		<SimpleData name="latitude">27.72611999620333</SimpleData>
+		<SimpleData name="longitude">85.79120212756766</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>85.791202127567658,27.72611999620333</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#npl_hltfac_DoH_WHO_wgs84_3districts">
+		<SimpleData name="hf_type">Sub Health Post</SimpleData>
+		<SimpleData name="dist_name">Sindhupalchok</SimpleData>
+		<SimpleData name="vdc_name1">Fulpingdandagau</SimpleData>
+		<SimpleData name="vdc_code1">C-BAG-23-018</SimpleData>
+		<SimpleData name="latitude">27.769769711044024</SimpleData>
+		<SimpleData name="longitude">85.78642210054569</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>85.786422100545693,27.769769711044024</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#npl_hltfac_DoH_WHO_wgs84_3districts">
+		<SimpleData name="hf_type">Sub Health Post</SimpleData>
+		<SimpleData name="dist_name">Sindhupalchok</SimpleData>
+		<SimpleData name="vdc_name1">Fulpingkot</SimpleData>
+		<SimpleData name="vdc_code1">C-BAG-23-020</SimpleData>
+		<SimpleData name="latitude">27.799701540283614</SimpleData>
+		<SimpleData name="longitude">85.77442069659745</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>85.774420696597446,27.799701540283614</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#npl_hltfac_DoH_WHO_wgs84_3districts">
+		<SimpleData name="hf_type">Sub Health Post</SimpleData>
+		<SimpleData name="dist_name">Sindhupalchok</SimpleData>
+		<SimpleData name="vdc_name1">Batase</SimpleData>
+		<SimpleData name="vdc_code1">C-BAG-23-008</SimpleData>
+		<SimpleData name="latitude">27.824489215811944</SimpleData>
+		<SimpleData name="longitude">85.73728468321022</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>85.73728468321022,27.824489215811944</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#npl_hltfac_DoH_WHO_wgs84_3districts">
+		<SimpleData name="hf_type">Sub Health Post</SimpleData>
+		<SimpleData name="dist_name">Sindhupalchok</SimpleData>
+		<SimpleData name="vdc_name1">SyauleBazar</SimpleData>
+		<SimpleData name="vdc_code1">C-BAG-23-066</SimpleData>
+		<SimpleData name="latitude">27.844851343709774</SimpleData>
+		<SimpleData name="longitude">85.69526940253117</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>85.695269402531167,27.844851343709774</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#npl_hltfac_DoH_WHO_wgs84_3districts">
+		<SimpleData name="hf_type">Sub Health Post</SimpleData>
+		<SimpleData name="dist_name">Sindhupalchok</SimpleData>
+		<SimpleData name="vdc_name1">SipalKavre</SimpleData>
+		<SimpleData name="vdc_code1">C-BAG-23-064</SimpleData>
+		<SimpleData name="latitude">27.8407053130156</SimpleData>
+		<SimpleData name="longitude">85.66152833204103</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>85.66152833204103,27.840705313015601</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#npl_hltfac_DoH_WHO_wgs84_3districts">
+		<SimpleData name="hf_type">Sub Health Post</SimpleData>
+		<SimpleData name="dist_name">Sindhupalchok</SimpleData>
+		<SimpleData name="vdc_name1">Lagarche</SimpleData>
+		<SimpleData name="vdc_code1">C-BAG-23-041</SimpleData>
+		<SimpleData name="latitude">27.85870130713673</SimpleData>
+		<SimpleData name="longitude">85.65884942223298</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>85.658849422232976,27.85870130713673</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#npl_hltfac_DoH_WHO_wgs84_3districts">
+		<SimpleData name="hf_type">Sub Health Post</SimpleData>
+		<SimpleData name="dist_name">Sindhupalchok</SimpleData>
+		<SimpleData name="vdc_name1">BhoteNamlang</SimpleData>
+		<SimpleData name="vdc_code1">C-BAG-23-011</SimpleData>
+		<SimpleData name="latitude">27.891777749378157</SimpleData>
+		<SimpleData name="longitude">85.6910191135255</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>85.691019113525499,27.891777749378157</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#npl_hltfac_DoH_WHO_wgs84_3districts">
+		<SimpleData name="hf_type">Sub Health Post</SimpleData>
+		<SimpleData name="dist_name">Sindhupalchok</SimpleData>
+		<SimpleData name="vdc_name1">Gunsakot</SimpleData>
+		<SimpleData name="vdc_code1">C-BAG-23-026</SimpleData>
+		<SimpleData name="latitude">27.930727804624865</SimpleData>
+		<SimpleData name="longitude">85.70961156648987</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>85.709611566489869,27.930727804624865</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#npl_hltfac_DoH_WHO_wgs84_3districts">
+		<SimpleData name="hf_type">Sub Health Post</SimpleData>
+		<SimpleData name="dist_name">Sindhupalchok</SimpleData>
+		<SimpleData name="vdc_name1">Thanpalkot</SimpleData>
+		<SimpleData name="vdc_code1">C-BAG-23-073</SimpleData>
+		<SimpleData name="latitude">27.96137616456718</SimpleData>
+		<SimpleData name="longitude">85.71662795515192</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>85.716627955151921,27.961376164567181</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#npl_hltfac_DoH_WHO_wgs84_3districts">
+		<SimpleData name="hf_type">Sub Health Post</SimpleData>
+		<SimpleData name="dist_name">Sindhupalchok</SimpleData>
+		<SimpleData name="vdc_name1">ThampalChhap</SimpleData>
+		<SimpleData name="vdc_code1">C-BAG-23-072</SimpleData>
+		<SimpleData name="latitude">27.92520540493256</SimpleData>
+		<SimpleData name="longitude">85.64634725122517</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>85.646347251225166,27.925205404932559</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#npl_hltfac_DoH_WHO_wgs84_3districts">
+		<SimpleData name="hf_type">Sub Health Post</SimpleData>
+		<SimpleData name="dist_name">Sindhupalchok</SimpleData>
+		<SimpleData name="vdc_name1">Kiwool</SimpleData>
+		<SimpleData name="vdc_code1">C-BAG-23-038</SimpleData>
+		<SimpleData name="latitude">27.947075552799287</SimpleData>
+		<SimpleData name="longitude">85.5944172065113</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>85.594417206511295,27.947075552799287</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#npl_hltfac_DoH_WHO_wgs84_3districts">
+		<SimpleData name="hf_type">Sub Health Post</SimpleData>
+		<SimpleData name="dist_name">Sindhupalchok</SimpleData>
+		<SimpleData name="vdc_name1">Helumbu</SimpleData>
+		<SimpleData name="vdc_code1">C-BAG-23-029</SimpleData>
+		<SimpleData name="latitude">28.117875005975307</SimpleData>
+		<SimpleData name="longitude">85.52998650445811</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>85.529986504458108,28.117875005975307</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#npl_hltfac_DoH_WHO_wgs84_3districts">
+		<SimpleData name="hf_type">Sub Health Post</SimpleData>
+		<SimpleData name="dist_name">Sindhupalchok</SimpleData>
+		<SimpleData name="vdc_name1">Baruwa</SimpleData>
+		<SimpleData name="vdc_code1">C-BAG-23-007</SimpleData>
+		<SimpleData name="latitude">28.112038706418506</SimpleData>
+		<SimpleData name="longitude">85.598431017257</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>85.598431017256999,28.112038706418506</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#npl_hltfac_DoH_WHO_wgs84_3districts">
+		<SimpleData name="hf_type">Sub Health Post</SimpleData>
+		<SimpleData name="dist_name">Sindhupalchok</SimpleData>
+		<SimpleData name="vdc_name1">Motang</SimpleData>
+		<SimpleData name="vdc_code1">C-BAG-23-049</SimpleData>
+		<SimpleData name="latitude">28.105639871089515</SimpleData>
+		<SimpleData name="longitude">85.66872380969703</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>85.668723809697028,28.105639871089515</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#npl_hltfac_DoH_WHO_wgs84_3districts">
+		<SimpleData name="hf_type">Sub Health Post</SimpleData>
+		<SimpleData name="dist_name">Sindhupalchok</SimpleData>
+		<SimpleData name="vdc_name1">Gloche</SimpleData>
+		<SimpleData name="vdc_code1">C-BAG-23-024</SimpleData>
+		<SimpleData name="latitude">28.126945196896518</SimpleData>
+		<SimpleData name="longitude">85.72698104887758</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>85.726981048877576,28.126945196896518</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#npl_hltfac_DoH_WHO_wgs84_3districts">
+		<SimpleData name="hf_type">Sub Health Post</SimpleData>
+		<SimpleData name="dist_name">Sindhupalchok</SimpleData>
+		<SimpleData name="vdc_name1">Gumba</SimpleData>
+		<SimpleData name="vdc_code1">C-BAG-23-025</SimpleData>
+		<SimpleData name="latitude">28.104344041946227</SimpleData>
+		<SimpleData name="longitude">85.82578968911386</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>85.825789689113861,28.104344041946227</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#npl_hltfac_DoH_WHO_wgs84_3districts">
+		<SimpleData name="hf_type">Sub Health Post</SimpleData>
+		<SimpleData name="dist_name">Sindhupalchok</SimpleData>
+		<SimpleData name="vdc_name1">Listikot</SimpleData>
+		<SimpleData name="vdc_code1">C-BAG-23-043</SimpleData>
+		<SimpleData name="latitude">27.94531970703331</SimpleData>
+		<SimpleData name="longitude">85.8791734358394</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>85.879173435839405,27.94531970703331</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#npl_hltfac_DoH_WHO_wgs84_3districts">
+		<SimpleData name="hf_type">Sub Health Post</SimpleData>
+		<SimpleData name="dist_name">Sindhupalchok</SimpleData>
+		<SimpleData name="vdc_name1">Pangtang</SimpleData>
+		<SimpleData name="vdc_code1">C-BAG-23-053</SimpleData>
+		<SimpleData name="latitude">27.902441030285086</SimpleData>
+		<SimpleData name="longitude">85.78187121953646</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>85.781871219536455,27.902441030285086</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#npl_hltfac_DoH_WHO_wgs84_3districts">
+		<SimpleData name="hf_type">Sub Health Post</SimpleData>
+		<SimpleData name="dist_name">Sindhupalchok</SimpleData>
+		<SimpleData name="vdc_name1">Fulpingkatti</SimpleData>
+		<SimpleData name="vdc_code1">C-BAG-23-019</SimpleData>
+		<SimpleData name="latitude">27.913680361271627</SimpleData>
+		<SimpleData name="longitude">85.95327805858972</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>85.953278058589717,27.913680361271627</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#npl_hltfac_DoH_WHO_wgs84_3districts">
+		<SimpleData name="hf_type">Sub Health Post</SimpleData>
+		<SimpleData name="dist_name">Sindhupalchok</SimpleData>
+		<SimpleData name="vdc_name1">Marming</SimpleData>
+		<SimpleData name="vdc_code1">C-BAG-23-047</SimpleData>
+		<SimpleData name="latitude">27.864308205046683</SimpleData>
+		<SimpleData name="longitude">85.9248693581648</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>85.924869358164798,27.864308205046683</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#npl_hltfac_DoH_WHO_wgs84_3districts">
+		<SimpleData name="hf_type">Sub Health Post</SimpleData>
+		<SimpleData name="dist_name">Sindhupalchok</SimpleData>
+		<SimpleData name="vdc_name1">Dhuyang</SimpleData>
+		<SimpleData name="vdc_code1">C-BAG-23-015</SimpleData>
+		<SimpleData name="latitude">27.887144374394737</SimpleData>
+		<SimpleData name="longitude">85.84473741275045</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>85.844737412750447,27.887144374394737</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#npl_hltfac_DoH_WHO_wgs84_3districts">
+		<SimpleData name="hf_type">Sub Health Post</SimpleData>
+		<SimpleData name="dist_name">Sindhupalchok</SimpleData>
+		<SimpleData name="vdc_name1">Hagam</SimpleData>
+		<SimpleData name="vdc_code1">C-BAG-23-027</SimpleData>
+		<SimpleData name="latitude">27.874381393930456</SimpleData>
+		<SimpleData name="longitude">85.82090397886847</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>85.820903978868472,27.874381393930456</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#npl_hltfac_DoH_WHO_wgs84_3districts">
+		<SimpleData name="hf_type">Sub Health Post</SimpleData>
+		<SimpleData name="dist_name">Sindhupalchok</SimpleData>
+		<SimpleData name="vdc_name1">Baramchi</SimpleData>
+		<SimpleData name="vdc_code1">C-BAG-23-005</SimpleData>
+		<SimpleData name="latitude">27.873941294002908</SimpleData>
+		<SimpleData name="longitude">85.7705132377591</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>85.770513237759104,27.873941294002908</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#npl_hltfac_DoH_WHO_wgs84_3districts">
+		<SimpleData name="hf_type">Sub Health Post</SimpleData>
+		<SimpleData name="dist_name">Sindhupalchok</SimpleData>
+		<SimpleData name="vdc_name1">Maneswor</SimpleData>
+		<SimpleData name="vdc_code1">C-BAG-23-045</SimpleData>
+		<SimpleData name="latitude">27.813073654312976</SimpleData>
+		<SimpleData name="longitude">85.86947772113646</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>85.869477721136462,27.813073654312976</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#npl_hltfac_DoH_WHO_wgs84_3districts">
+		<SimpleData name="hf_type">Sub Health Post</SimpleData>
+		<SimpleData name="dist_name">Sindhupalchok</SimpleData>
+		<SimpleData name="vdc_name1">Gati</SimpleData>
+		<SimpleData name="vdc_code1">C-BAG-23-021</SimpleData>
+		<SimpleData name="latitude">27.837237021036252</SimpleData>
+		<SimpleData name="longitude">85.88581566523631</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>85.885815665236308,27.837237021036252</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#npl_hltfac_DoH_WHO_wgs84_3districts">
+		<SimpleData name="hf_type">Sub Health Post</SimpleData>
+		<SimpleData name="dist_name">Sindhupalchok</SimpleData>
+		<SimpleData name="vdc_name1">Karthali</SimpleData>
+		<SimpleData name="vdc_code1">C-BAG-23-037</SimpleData>
+		<SimpleData name="latitude">27.81223235569992</SimpleData>
+		<SimpleData name="longitude">85.97145135929217</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>85.971451359292175,27.812232355699919</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#npl_hltfac_DoH_WHO_wgs84_3districts">
+		<SimpleData name="hf_type">Sub Health Post</SimpleData>
+		<SimpleData name="dist_name">Sindhupalchok</SimpleData>
+		<SimpleData name="vdc_name1">Ghorthali</SimpleData>
+		<SimpleData name="vdc_code1">C-BAG-23-022</SimpleData>
+		<SimpleData name="latitude">27.800447323459114</SimpleData>
+		<SimpleData name="longitude">86.00288592441223</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>86.002885924412226,27.800447323459114</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#npl_hltfac_DoH_WHO_wgs84_3districts">
+		<SimpleData name="hf_type">Sub Health Post</SimpleData>
+		<SimpleData name="dist_name">Sindhupalchok</SimpleData>
+		<SimpleData name="vdc_name1">Choukati</SimpleData>
+		<SimpleData name="vdc_code1">C-BAG-23-013</SimpleData>
+		<SimpleData name="latitude">27.77330546241118</SimpleData>
+		<SimpleData name="longitude">85.95155465083035</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>85.951554650830346,27.77330546241118</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#npl_hltfac_DoH_WHO_wgs84_3districts">
+		<SimpleData name="hf_type">Sub Health Post</SimpleData>
+		<SimpleData name="dist_name">Sindhupalchok</SimpleData>
+		<SimpleData name="vdc_name1">Ghuskun</SimpleData>
+		<SimpleData name="vdc_code1">C-BAG-23-023</SimpleData>
+		<SimpleData name="latitude">27.76811573485532</SimpleData>
+		<SimpleData name="longitude">85.9159923957611</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>85.915992395761094,27.768115734855321</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#npl_hltfac_DoH_WHO_wgs84_3districts">
+		<SimpleData name="hf_type">Sub Health Post</SimpleData>
+		<SimpleData name="dist_name">Sindhupalchok</SimpleData>
+		<SimpleData name="vdc_name1">Ramche</SimpleData>
+		<SimpleData name="vdc_code1">C-BAG-23-057</SimpleData>
+		<SimpleData name="latitude">27.78591298279767</SimpleData>
+		<SimpleData name="longitude">85.887567503357</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>85.887567503357005,27.785912982797669</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#npl_hltfac_DoH_WHO_wgs84_3districts">
+		<SimpleData name="hf_type">Sub Health Post</SimpleData>
+		<SimpleData name="dist_name">Sindhupalchok</SimpleData>
+		<SimpleData name="vdc_name1">Mankha</SimpleData>
+		<SimpleData name="vdc_code1">C-BAG-23-046</SimpleData>
+		<SimpleData name="latitude">27.778893481099043</SimpleData>
+		<SimpleData name="longitude">85.83114616449775</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>85.831146164497753,27.778893481099043</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#npl_hltfac_DoH_WHO_wgs84_3districts">
+		<SimpleData name="hf_type">Sub Health Post</SimpleData>
+		<SimpleData name="dist_name">Sindhupalchok</SimpleData>
+		<SimpleData name="vdc_name1">Pagretar</SimpleData>
+		<SimpleData name="vdc_code1">C-BAG-23-051</SimpleData>
+		<SimpleData name="latitude">27.748956085387743</SimpleData>
+		<SimpleData name="longitude">85.84312972555722</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>85.843129725557219,27.748956085387743</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#npl_hltfac_DoH_WHO_wgs84_3districts">
+		<SimpleData name="hf_type">Sub Health Post</SimpleData>
+		<SimpleData name="dist_name">Sindhupalchok</SimpleData>
+		<SimpleData name="vdc_name1">ThumPakhar</SimpleData>
+		<SimpleData name="vdc_code1">C-BAG-23-078</SimpleData>
+		<SimpleData name="latitude">27.73397763709553</SimpleData>
+		<SimpleData name="longitude">85.8156671358469</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>85.815667135846894,27.733977637095531</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#npl_hltfac_DoH_WHO_wgs84_3districts">
+		<SimpleData name="hf_type">Sub Health Post</SimpleData>
+		<SimpleData name="dist_name">Sindhupalchok</SimpleData>
+		<SimpleData name="vdc_name1">Tauthali</SimpleData>
+		<SimpleData name="vdc_code1">C-BAG-23-069</SimpleData>
+		<SimpleData name="latitude">27.729737298042423</SimpleData>
+		<SimpleData name="longitude">85.89734513553192</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>85.897345135531921,27.729737298042423</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#npl_hltfac_DoH_WHO_wgs84_3districts">
+		<SimpleData name="hf_type">Sub Health Post</SimpleData>
+		<SimpleData name="dist_name">Sindhupalchok</SimpleData>
+		<SimpleData name="vdc_name1">Petaku</SimpleData>
+		<SimpleData name="vdc_code1">C-BAG-23-054</SimpleData>
+		<SimpleData name="latitude">27.727906156525503</SimpleData>
+		<SimpleData name="longitude">85.8734265786643</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>85.873426578664294,27.727906156525503</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#npl_hltfac_DoH_WHO_wgs84_3districts">
+		<SimpleData name="hf_type">Sub Health Post</SimpleData>
+		<SimpleData name="dist_name">Sindhupalchok</SimpleData>
+		<SimpleData name="vdc_name1">Tekanpur</SimpleData>
+		<SimpleData name="vdc_code1">C-BAG-23-070</SimpleData>
+		<SimpleData name="latitude">27.754695452632095</SimpleData>
+		<SimpleData name="longitude">85.87683444434013</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>85.876834444340133,27.754695452632095</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#npl_hltfac_DoH_WHO_wgs84_3districts">
+		<SimpleData name="hf_type">Sub Health Post</SimpleData>
+		<SimpleData name="dist_name">Sindhupalchok</SimpleData>
+		<SimpleData name="vdc_name1">Jethal</SimpleData>
+		<SimpleData name="vdc_code1">C-BAG-23-033</SimpleData>
+		<SimpleData name="latitude">27.69972046704012</SimpleData>
+		<SimpleData name="longitude">85.90010145814352</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>85.900101458143524,27.69972046704012</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#npl_hltfac_DoH_WHO_wgs84_3districts">
+		<SimpleData name="hf_type">Sub Health Post</SimpleData>
+		<SimpleData name="dist_name">Sindhupalchok</SimpleData>
+		<SimpleData name="vdc_name1">Atarpur</SimpleData>
+		<SimpleData name="vdc_code1">C-BAG-23-001</SimpleData>
+		<SimpleData name="latitude">27.674367211941817</SimpleData>
+		<SimpleData name="longitude">85.87152244227248</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>85.871522442272479,27.674367211941817</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#npl_hltfac_DoH_WHO_wgs84_3districts">
+		<SimpleData name="hf_type">Sub Health Post</SimpleData>
+		<SimpleData name="dist_name">Sindhupalchok</SimpleData>
+		<SimpleData name="vdc_name1">ThuloDhading</SimpleData>
+		<SimpleData name="vdc_code1">C-BAG-23-075</SimpleData>
+		<SimpleData name="latitude">27.655479972929434</SimpleData>
+		<SimpleData name="longitude">85.89993116788624</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>85.899931167886237,27.655479972929434</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#npl_hltfac_DoH_WHO_wgs84_3districts">
+		<SimpleData name="hf_type">Sub Health Post</SimpleData>
+		<SimpleData name="dist_name">Sindhupalchok</SimpleData>
+		<SimpleData name="vdc_name1">Kubhinde</SimpleData>
+		<SimpleData name="vdc_code1">C-BAG-23-039</SimpleData>
+		<SimpleData name="latitude">27.784313213460234</SimpleData>
+		<SimpleData name="longitude">85.73744481039856</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>85.737444810398557,27.784313213460234</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

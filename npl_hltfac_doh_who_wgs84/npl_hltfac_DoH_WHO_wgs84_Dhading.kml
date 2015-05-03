@@ -1,0 +1,573 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="npl_hltfac_DoH_WHO_wgs84" id="npl_hltfac_DoH_WHO_wgs84">
+	<SimpleField name="ID" type="int"></SimpleField>
+	<SimpleField name="HF_TYPE" type="string"></SimpleField>
+	<SimpleField name="DIST_NAME" type="string"></SimpleField>
+	<SimpleField name="VDC_NAME1" type="string"></SimpleField>
+	<SimpleField name="VDC_CODE1" type="string"></SimpleField>
+</Schema>
+<Folder><name>npl_hltfac_DoH_WHO_wgs84</name>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#npl_hltfac_DoH_WHO_wgs84">
+		<SimpleData name="ID">0</SimpleData>
+		<SimpleData name="HF_TYPE">DPHO</SimpleData>
+		<SimpleData name="DIST_NAME">Dhading</SimpleData>
+		<SimpleData name="VDC_NAME1">Nilkantha</SimpleData>
+		<SimpleData name="VDC_CODE1">C-BAG-30-035</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>84.897401828977195,27.902156058984332</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#npl_hltfac_DoH_WHO_wgs84">
+		<SimpleData name="ID">0</SimpleData>
+		<SimpleData name="HF_TYPE">Hospital</SimpleData>
+		<SimpleData name="DIST_NAME">Dhading</SimpleData>
+		<SimpleData name="VDC_NAME1">Nilkantha</SimpleData>
+		<SimpleData name="VDC_CODE1">C-BAG-30-035</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>84.915587241988192,27.908345660027258</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#npl_hltfac_DoH_WHO_wgs84">
+		<SimpleData name="ID">0</SimpleData>
+		<SimpleData name="HF_TYPE">Primary Health Center</SimpleData>
+		<SimpleData name="DIST_NAME">Dhading</SimpleData>
+		<SimpleData name="VDC_NAME1">Gajuri</SimpleData>
+		<SimpleData name="VDC_CODE1">C-BAG-30-013</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>84.851289133596779,27.793529743076302</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#npl_hltfac_DoH_WHO_wgs84">
+		<SimpleData name="ID">0</SimpleData>
+		<SimpleData name="HF_TYPE">Primary Health Center</SimpleData>
+		<SimpleData name="DIST_NAME">Dhading</SimpleData>
+		<SimpleData name="VDC_NAME1">Salyantar</SimpleData>
+		<SimpleData name="VDC_CODE1">C-BAG-30-041</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>84.799094415982594,27.990792979491879</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#npl_hltfac_DoH_WHO_wgs84">
+		<SimpleData name="ID">0</SimpleData>
+		<SimpleData name="HF_TYPE">Health Post</SimpleData>
+		<SimpleData name="DIST_NAME">Dhading</SimpleData>
+		<SimpleData name="VDC_NAME1">Naubise</SimpleData>
+		<SimpleData name="VDC_CODE1">C-BAG-30-034</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>85.142698040335816,27.721024450491733</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#npl_hltfac_DoH_WHO_wgs84">
+		<SimpleData name="ID">0</SimpleData>
+		<SimpleData name="HF_TYPE">Health Post</SimpleData>
+		<SimpleData name="DIST_NAME">Dhading</SimpleData>
+		<SimpleData name="VDC_NAME1">Thakre</SimpleData>
+		<SimpleData name="VDC_CODE1">C-BAG-30-048</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>85.087294038269633,27.73957863167141</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#npl_hltfac_DoH_WHO_wgs84">
+		<SimpleData name="ID">0</SimpleData>
+		<SimpleData name="HF_TYPE">Health Post</SimpleData>
+		<SimpleData name="DIST_NAME">Dhading</SimpleData>
+		<SimpleData name="VDC_NAME1">Baireni</SimpleData>
+		<SimpleData name="VDC_CODE1">C-BAG-30-002</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>84.96449864485723,27.789809128001384</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#npl_hltfac_DoH_WHO_wgs84">
+		<SimpleData name="ID">0</SimpleData>
+		<SimpleData name="HF_TYPE">Health Post</SimpleData>
+		<SimpleData name="DIST_NAME">Dhading</SimpleData>
+		<SimpleData name="VDC_NAME1">Benighat</SimpleData>
+		<SimpleData name="VDC_CODE1">C-BAG-30-004</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>84.772297275799886,27.797238917556669</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#npl_hltfac_DoH_WHO_wgs84">
+		<SimpleData name="ID">0</SimpleData>
+		<SimpleData name="HF_TYPE">Health Post</SimpleData>
+		<SimpleData name="DIST_NAME">Dhading</SimpleData>
+		<SimpleData name="VDC_NAME1">Salang</SimpleData>
+		<SimpleData name="VDC_CODE1">C-BAG-30-039</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>84.782837341549737,27.853843332342365</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#npl_hltfac_DoH_WHO_wgs84">
+		<SimpleData name="ID">0</SimpleData>
+		<SimpleData name="HF_TYPE">Health Post</SimpleData>
+		<SimpleData name="DIST_NAME">Dhading</SimpleData>
+		<SimpleData name="VDC_NAME1">Maidi</SimpleData>
+		<SimpleData name="VDC_CODE1">C-BAG-30-029</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>84.786640776957313,27.913309125954733</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#npl_hltfac_DoH_WHO_wgs84">
+		<SimpleData name="ID">0</SimpleData>
+		<SimpleData name="HF_TYPE">Health Post</SimpleData>
+		<SimpleData name="DIST_NAME">Dhading</SimpleData>
+		<SimpleData name="VDC_NAME1">Chainpur</SimpleData>
+		<SimpleData name="VDC_CODE1">C-BAG-30-007</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>84.805586227664278,27.96856166781178</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#npl_hltfac_DoH_WHO_wgs84">
+		<SimpleData name="ID">0</SimpleData>
+		<SimpleData name="HF_TYPE">Health Post</SimpleData>
+		<SimpleData name="DIST_NAME">Dhading</SimpleData>
+		<SimpleData name="VDC_NAME1">Sunaulabazar</SimpleData>
+		<SimpleData name="VDC_CODE1">C-BAG-30-046</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>84.91800370031612,27.863376158431411</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#npl_hltfac_DoH_WHO_wgs84">
+		<SimpleData name="ID">0</SimpleData>
+		<SimpleData name="HF_TYPE">Health Post</SimpleData>
+		<SimpleData name="DIST_NAME">Dhading</SimpleData>
+		<SimpleData name="VDC_NAME1">Khalte</SimpleData>
+		<SimpleData name="VDC_CODE1">C-BAG-30-023</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>84.962862695799757,27.87741315778451</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#npl_hltfac_DoH_WHO_wgs84">
+		<SimpleData name="ID">0</SimpleData>
+		<SimpleData name="HF_TYPE">Health Post</SimpleData>
+		<SimpleData name="DIST_NAME">Dhading</SimpleData>
+		<SimpleData name="VDC_NAME1">Kalleri</SimpleData>
+		<SimpleData name="VDC_CODE1">C-BAG-30-020</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>84.965037422906221,27.93982409389065</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#npl_hltfac_DoH_WHO_wgs84">
+		<SimpleData name="ID">0</SimpleData>
+		<SimpleData name="HF_TYPE">Health Post</SimpleData>
+		<SimpleData name="DIST_NAME">Dhading</SimpleData>
+		<SimpleData name="VDC_NAME1">Katunje</SimpleData>
+		<SimpleData name="VDC_CODE1">C-BAG-30-021</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>84.929106007980053,27.982358413460535</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#npl_hltfac_DoH_WHO_wgs84">
+		<SimpleData name="ID">0</SimpleData>
+		<SimpleData name="HF_TYPE">Health Post</SimpleData>
+		<SimpleData name="DIST_NAME">Dhading</SimpleData>
+		<SimpleData name="VDC_NAME1">Budhathum</SimpleData>
+		<SimpleData name="VDC_CODE1">C-BAG-30-006</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>84.841707273264817,28.086457847761302</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#npl_hltfac_DoH_WHO_wgs84">
+		<SimpleData name="ID">0</SimpleData>
+		<SimpleData name="HF_TYPE">Health Post</SimpleData>
+		<SimpleData name="DIST_NAME">Dhading</SimpleData>
+		<SimpleData name="VDC_NAME1">Phulkhark</SimpleData>
+		<SimpleData name="VDC_CODE1">C-BAG-30-036</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>84.901887283509879,28.091847049588097</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#npl_hltfac_DoH_WHO_wgs84">
+		<SimpleData name="ID">0</SimpleData>
+		<SimpleData name="HF_TYPE">Health Post</SimpleData>
+		<SimpleData name="DIST_NAME">Dhading</SimpleData>
+		<SimpleData name="VDC_NAME1">Darkha</SimpleData>
+		<SimpleData name="VDC_CODE1">C-BAG-30-009</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>85.006047478982651,28.074093416432209</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#npl_hltfac_DoH_WHO_wgs84">
+		<SimpleData name="ID">0</SimpleData>
+		<SimpleData name="HF_TYPE">Health Post</SimpleData>
+		<SimpleData name="DIST_NAME">Dhading</SimpleData>
+		<SimpleData name="VDC_NAME1">Satyadevi</SimpleData>
+		<SimpleData name="VDC_CODE1">C-BAG-30-043</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>85.041660042320146,28.049357594318408</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#npl_hltfac_DoH_WHO_wgs84">
+		<SimpleData name="ID">0</SimpleData>
+		<SimpleData name="HF_TYPE">Health Post</SimpleData>
+		<SimpleData name="DIST_NAME">Dhading</SimpleData>
+		<SimpleData name="VDC_NAME1">Sertung</SimpleData>
+		<SimpleData name="VDC_CODE1">C-BAG-30-045</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>85.116297286665471,28.280613552538433</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#npl_hltfac_DoH_WHO_wgs84">
+		<SimpleData name="ID">0</SimpleData>
+		<SimpleData name="HF_TYPE">Sub Health Post</SimpleData>
+		<SimpleData name="DIST_NAME">Dhading</SimpleData>
+		<SimpleData name="VDC_NAME1">Jogimara</SimpleData>
+		<SimpleData name="VDC_CODE1">C-BAG-30-018</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>84.658426294062622,27.811690613279151</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#npl_hltfac_DoH_WHO_wgs84">
+		<SimpleData name="ID">0</SimpleData>
+		<SimpleData name="HF_TYPE">Sub Health Post</SimpleData>
+		<SimpleData name="DIST_NAME">Dhading</SimpleData>
+		<SimpleData name="VDC_NAME1">Dhussa</SimpleData>
+		<SimpleData name="VDC_CODE1">C-BAG-30-011</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>84.737453506806773,27.786276677251415</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#npl_hltfac_DoH_WHO_wgs84">
+		<SimpleData name="ID">0</SimpleData>
+		<SimpleData name="HF_TYPE">Sub Health Post</SimpleData>
+		<SimpleData name="DIST_NAME">Dhading</SimpleData>
+		<SimpleData name="VDC_NAME1">Mahadevsthan</SimpleData>
+		<SimpleData name="VDC_CODE1">C-BAG-30-028</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>84.82347728497102,27.743104188235527</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#npl_hltfac_DoH_WHO_wgs84">
+		<SimpleData name="ID">0</SimpleData>
+		<SimpleData name="HF_TYPE">Sub Health Post</SimpleData>
+		<SimpleData name="DIST_NAME">Dhading</SimpleData>
+		<SimpleData name="VDC_NAME1">Kiranchok</SimpleData>
+		<SimpleData name="VDC_CODE1">C-BAG-30-025</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>84.936760376120091,27.755237507946816</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#npl_hltfac_DoH_WHO_wgs84">
+		<SimpleData name="ID">0</SimpleData>
+		<SimpleData name="HF_TYPE">Sub Health Post</SimpleData>
+		<SimpleData name="DIST_NAME">Dhading</SimpleData>
+		<SimpleData name="VDC_NAME1">Pida</SimpleData>
+		<SimpleData name="VDC_CODE1">C-BAG-30-037</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>84.900884245326452,27.797768216295704</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#npl_hltfac_DoH_WHO_wgs84">
+		<SimpleData name="ID">0</SimpleData>
+		<SimpleData name="HF_TYPE">Sub Health Post</SimpleData>
+		<SimpleData name="DIST_NAME">Dhading</SimpleData>
+		<SimpleData name="VDC_NAME1">Bhumesthan</SimpleData>
+		<SimpleData name="VDC_CODE1">C-BAG-30-005</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>85.025195749041785,27.758014388567535</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#npl_hltfac_DoH_WHO_wgs84">
+		<SimpleData name="ID">0</SimpleData>
+		<SimpleData name="HF_TYPE">Sub Health Post</SimpleData>
+		<SimpleData name="DIST_NAME">Dhading</SimpleData>
+		<SimpleData name="VDC_NAME1">Goganpani</SimpleData>
+		<SimpleData name="VDC_CODE1">C-BAG-30-014</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>85.026087379630894,27.801099827974969</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#npl_hltfac_DoH_WHO_wgs84">
+		<SimpleData name="ID">0</SimpleData>
+		<SimpleData name="HF_TYPE">Sub Health Post</SimpleData>
+		<SimpleData name="DIST_NAME">Dhading</SimpleData>
+		<SimpleData name="VDC_NAME1">Kewalpur</SimpleData>
+		<SimpleData name="VDC_CODE1">C-BAG-30-022</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>85.098512350234401,27.766468851257425</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#npl_hltfac_DoH_WHO_wgs84">
+		<SimpleData name="ID">0</SimpleData>
+		<SimpleData name="HF_TYPE">Sub Health Post</SimpleData>
+		<SimpleData name="DIST_NAME">Dhading</SimpleData>
+		<SimpleData name="VDC_NAME1">Jeewanpur</SimpleData>
+		<SimpleData name="VDC_CODE1">C-BAG-30-016</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>85.195486476756884,27.758856865066509</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#npl_hltfac_DoH_WHO_wgs84">
+		<SimpleData name="ID">0</SimpleData>
+		<SimpleData name="HF_TYPE">Sub Health Post</SimpleData>
+		<SimpleData name="DIST_NAME">Dhading</SimpleData>
+		<SimpleData name="VDC_NAME1">ChhatreDyaurali</SimpleData>
+		<SimpleData name="VDC_CODE1">C-BAG-30-008</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>85.233762181768228,27.766778033385208</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#npl_hltfac_DoH_WHO_wgs84">
+		<SimpleData name="ID">0</SimpleData>
+		<SimpleData name="HF_TYPE">Sub Health Post</SimpleData>
+		<SimpleData name="DIST_NAME">Dhading</SimpleData>
+		<SimpleData name="VDC_NAME1">Kalleri</SimpleData>
+		<SimpleData name="VDC_CODE1">C-BAG-30-020</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>85.002111903501358,27.833430460590616</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#npl_hltfac_DoH_WHO_wgs84">
+		<SimpleData name="ID">0</SimpleData>
+		<SimpleData name="HF_TYPE">Sub Health Post</SimpleData>
+		<SimpleData name="DIST_NAME">Dhading</SimpleData>
+		<SimpleData name="VDC_NAME1">Kumpur</SimpleData>
+		<SimpleData name="VDC_CODE1">C-BAG-30-026</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>84.874856526680674,27.847866182031733</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#npl_hltfac_DoH_WHO_wgs84">
+		<SimpleData name="ID">0</SimpleData>
+		<SimpleData name="HF_TYPE">Sub Health Post</SimpleData>
+		<SimpleData name="DIST_NAME">Dhading</SimpleData>
+		<SimpleData name="VDC_NAME1">Nalang</SimpleData>
+		<SimpleData name="VDC_CODE1">C-BAG-30-033</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>84.8441727194365,27.8785782399688</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#npl_hltfac_DoH_WHO_wgs84">
+		<SimpleData name="ID">0</SimpleData>
+		<SimpleData name="HF_TYPE">Sub Health Post</SimpleData>
+		<SimpleData name="DIST_NAME">Dhading</SimpleData>
+		<SimpleData name="VDC_NAME1">Dhola</SimpleData>
+		<SimpleData name="VDC_CODE1">C-BAG-30-010</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>84.839975903873309,27.9215817167597</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#npl_hltfac_DoH_WHO_wgs84">
+		<SimpleData name="ID">0</SimpleData>
+		<SimpleData name="HF_TYPE">Sub Health Post</SimpleData>
+		<SimpleData name="DIST_NAME">Dhading</SimpleData>
+		<SimpleData name="VDC_NAME1">Khari</SimpleData>
+		<SimpleData name="VDC_CODE1">C-BAG-30-024</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>84.807798519478368,27.9418648566112</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#npl_hltfac_DoH_WHO_wgs84">
+		<SimpleData name="ID">0</SimpleData>
+		<SimpleData name="HF_TYPE">Sub Health Post</SimpleData>
+		<SimpleData name="DIST_NAME">Dhading</SimpleData>
+		<SimpleData name="VDC_NAME1">Sangkosh</SimpleData>
+		<SimpleData name="VDC_CODE1">C-BAG-30-042</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>84.917968725098703,27.952486740164684</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#npl_hltfac_DoH_WHO_wgs84">
+		<SimpleData name="ID">0</SimpleData>
+		<SimpleData name="HF_TYPE">Sub Health Post</SimpleData>
+		<SimpleData name="DIST_NAME">Dhading</SimpleData>
+		<SimpleData name="VDC_NAME1">Jyamrung</SimpleData>
+		<SimpleData name="VDC_CODE1">C-BAG-30-019</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>84.892282270283786,27.98328402706186</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#npl_hltfac_DoH_WHO_wgs84">
+		<SimpleData name="ID">0</SimpleData>
+		<SimpleData name="HF_TYPE">Sub Health Post</SimpleData>
+		<SimpleData name="DIST_NAME">Dhading</SimpleData>
+		<SimpleData name="VDC_NAME1">Aginchok</SimpleData>
+		<SimpleData name="VDC_CODE1">C-BAG-30-001</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>84.837636714703734,28.038870123101749</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#npl_hltfac_DoH_WHO_wgs84">
+		<SimpleData name="ID">0</SimpleData>
+		<SimpleData name="HF_TYPE">Sub Health Post</SimpleData>
+		<SimpleData name="DIST_NAME">Dhading</SimpleData>
+		<SimpleData name="VDC_NAME1">Salyankot</SimpleData>
+		<SimpleData name="VDC_CODE1">C-BAG-30-040</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>84.901482763643457,28.026494347107757</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#npl_hltfac_DoH_WHO_wgs84">
+		<SimpleData name="ID">0</SimpleData>
+		<SimpleData name="HF_TYPE">Sub Health Post</SimpleData>
+		<SimpleData name="DIST_NAME">Dhading</SimpleData>
+		<SimpleData name="VDC_NAME1">Tripureswor</SimpleData>
+		<SimpleData name="VDC_CODE1">C-BAG-30-050</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>84.881724662559549,28.009854462077588</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#npl_hltfac_DoH_WHO_wgs84">
+		<SimpleData name="ID">0</SimpleData>
+		<SimpleData name="HF_TYPE">Sub Health Post</SimpleData>
+		<SimpleData name="DIST_NAME">Dhading</SimpleData>
+		<SimpleData name="VDC_NAME1">Marpak</SimpleData>
+		<SimpleData name="VDC_CODE1">C-BAG-30-030</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>84.968522831214571,28.021561473170497</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#npl_hltfac_DoH_WHO_wgs84">
+		<SimpleData name="ID">0</SimpleData>
+		<SimpleData name="HF_TYPE">Sub Health Post</SimpleData>
+		<SimpleData name="DIST_NAME">Dhading</SimpleData>
+		<SimpleData name="VDC_NAME1">Semjong</SimpleData>
+		<SimpleData name="VDC_CODE1">C-BAG-30-044</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>85.005907425473211,27.990919767783339</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#npl_hltfac_DoH_WHO_wgs84">
+		<SimpleData name="ID">0</SimpleData>
+		<SimpleData name="HF_TYPE">Sub Health Post</SimpleData>
+		<SimpleData name="DIST_NAME">Dhading</SimpleData>
+		<SimpleData name="VDC_NAME1">Gumdi</SimpleData>
+		<SimpleData name="VDC_CODE1">C-BAG-30-015</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>84.957754655171556,28.060016520869993</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#npl_hltfac_DoH_WHO_wgs84">
+		<SimpleData name="ID">0</SimpleData>
+		<SimpleData name="HF_TYPE">Sub Health Post</SimpleData>
+		<SimpleData name="DIST_NAME">Dhading</SimpleData>
+		<SimpleData name="VDC_NAME1">Mulpani</SimpleData>
+		<SimpleData name="VDC_CODE1">C-BAG-30-031</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>84.879178335494629,28.054369418152437</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#npl_hltfac_DoH_WHO_wgs84">
+		<SimpleData name="ID">0</SimpleData>
+		<SimpleData name="HF_TYPE">Sub Health Post</SimpleData>
+		<SimpleData name="DIST_NAME">Dhading</SimpleData>
+		<SimpleData name="VDC_NAME1">Baseri</SimpleData>
+		<SimpleData name="VDC_CODE1">C-BAG-30-003</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>84.861324720723758,28.110527045180326</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#npl_hltfac_DoH_WHO_wgs84">
+		<SimpleData name="ID">0</SimpleData>
+		<SimpleData name="HF_TYPE">Sub Health Post</SimpleData>
+		<SimpleData name="DIST_NAME">Dhading</SimpleData>
+		<SimpleData name="VDC_NAME1">ReeGaun</SimpleData>
+		<SimpleData name="VDC_CODE1">C-BAG-30-038</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>84.973125276791251,28.133018115912535</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#npl_hltfac_DoH_WHO_wgs84">
+		<SimpleData name="ID">0</SimpleData>
+		<SimpleData name="HF_TYPE">Sub Health Post</SimpleData>
+		<SimpleData name="DIST_NAME">Dhading</SimpleData>
+		<SimpleData name="VDC_NAME1">Jharlang</SimpleData>
+		<SimpleData name="VDC_CODE1">C-BAG-30-017</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>85.040420015198308,28.117659789620713</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#npl_hltfac_DoH_WHO_wgs84">
+		<SimpleData name="ID">0</SimpleData>
+		<SimpleData name="HF_TYPE">Sub Health Post</SimpleData>
+		<SimpleData name="DIST_NAME">Dhading</SimpleData>
+		<SimpleData name="VDC_NAME1">Tipling</SimpleData>
+		<SimpleData name="VDC_CODE1">C-BAG-30-049</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>85.160597578449725,28.241116010882735</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#npl_hltfac_DoH_WHO_wgs84">
+		<SimpleData name="ID">0</SimpleData>
+		<SimpleData name="HF_TYPE">Sub Health Post</SimpleData>
+		<SimpleData name="DIST_NAME">Dhading</SimpleData>
+		<SimpleData name="VDC_NAME1">Lapa</SimpleData>
+		<SimpleData name="VDC_CODE1">C-BAG-30-027</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>85.072151781610899,28.309701270843533</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#npl_hltfac_DoH_WHO_wgs84">
+		<SimpleData name="ID">0</SimpleData>
+		<SimpleData name="HF_TYPE">Sub Health Post</SimpleData>
+		<SimpleData name="DIST_NAME">Dhading</SimpleData>
+		<SimpleData name="VDC_NAME1">Tasarpu</SimpleData>
+		<SimpleData name="VDC_CODE1">C-BAG-30-047</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>85.0657813809933,27.728882376029464</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#npl_hltfac_DoH_WHO_wgs84">
+		<SimpleData name="ID">0</SimpleData>
+		<SimpleData name="HF_TYPE">Sub Health Post</SimpleData>
+		<SimpleData name="DIST_NAME">Dhading</SimpleData>
+		<SimpleData name="VDC_NAME1">Muralibhanjyang</SimpleData>
+		<SimpleData name="VDC_CODE1">C-BAG-30-032</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>84.866369913097827,27.939815083162141</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#npl_hltfac_DoH_WHO_wgs84">
+		<SimpleData name="ID">0</SimpleData>
+		<SimpleData name="HF_TYPE">Distict Cold Room</SimpleData>
+		<SimpleData name="DIST_NAME">Dhading</SimpleData>
+		<SimpleData name="VDC_NAME1">Nilkantha</SimpleData>
+		<SimpleData name="VDC_CODE1">C-BAG-30-035</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>84.942109335579119,27.91423488916169</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#npl_hltfac_DoH_WHO_wgs84">
+		<SimpleData name="ID">0</SimpleData>
+		<SimpleData name="HF_TYPE">Sub Center</SimpleData>
+		<SimpleData name="DIST_NAME">Dhading</SimpleData>
+		<SimpleData name="VDC_NAME1">Baireni</SimpleData>
+		<SimpleData name="VDC_CODE1">C-BAG-30-002</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>84.996330319554161,27.784333547173777</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#npl_hltfac_DoH_WHO_wgs84">
+		<SimpleData name="ID">0</SimpleData>
+		<SimpleData name="HF_TYPE">Sub Center</SimpleData>
+		<SimpleData name="DIST_NAME">Dhading</SimpleData>
+		<SimpleData name="VDC_NAME1">Darkha</SimpleData>
+		<SimpleData name="VDC_CODE1">C-BAG-30-009</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>85.014636020845117,28.062336319705214</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#npl_hltfac_DoH_WHO_wgs84">
+		<SimpleData name="ID">0</SimpleData>
+		<SimpleData name="HF_TYPE">Sub Center</SimpleData>
+		<SimpleData name="DIST_NAME">Dhading</SimpleData>
+		<SimpleData name="VDC_NAME1">Salyantar</SimpleData>
+		<SimpleData name="VDC_CODE1">C-BAG-30-041</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>84.817886960901077,28.02222149684922</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#npl_hltfac_DoH_WHO_wgs84">
+		<SimpleData name="ID">0</SimpleData>
+		<SimpleData name="HF_TYPE">District Cold Room</SimpleData>
+		<SimpleData name="DIST_NAME">Dhading</SimpleData>
+		<SimpleData name="VDC_NAME1">Nilkantha</SimpleData>
+		<SimpleData name="VDC_CODE1">C-BAG-30-035</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>84.95823011629129,27.908840917985579</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>
